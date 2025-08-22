@@ -1,14 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import data from './movieData.json'
+import data from './movieDataLarge.json'
 import MovieListItem from './movieListItem';
 
 function App() {
 
   // const headers = Object.keys(data[0]);
-  console.log("data: ", data);
-  console.log("movieData: ", data.movieData);
-  console.log("movie 1: ", data.movieData[0]);
+  let movieData = data.movieData;
 
   // const headers = Object.keys(data.movieData[0]);
   // console.log(headers);
@@ -21,13 +19,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Robert's Movie Reviews</h1>
-        <br></br>
         <p>
           Just a website where I post my dumb movie reviews
         </p>
       </header>
 
-      {data.movieData.map((movie, index) => (
+      {movieData.map((movie, index) => (
         <MovieListItem key={index} movie={movie}/>
       ))}
 

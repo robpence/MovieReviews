@@ -37,11 +37,11 @@ function MovieListItem({movie}) {
           </div>
           <div class="InfoContainer">
             <div class="MovieTitle">{data.Title}</div>
-            <div class="MovieMetadata">{data.Year}   {data.Runtime}  {data.Rated}</div>
+            <div class="MovieMetadata">{data.Year}&nbsp;&nbsp;&nbsp;&nbsp;{data.Runtime}&nbsp;&nbsp;&nbsp;&nbsp;{data.Rated}</div>
             <div class="MovieRating"><span class="fa fa-star checked"></span> 8</div>
           </div>
           <div class="MovieInfo">
-            <i class="fas fa-info-circle"></i>
+            <i title={movie.movieComments} class="fas fa-info-circle"></i>
           </div>
         </div>
         <div class="MovieDescription">

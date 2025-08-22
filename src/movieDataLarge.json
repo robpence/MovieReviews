@@ -1,0 +1,100 @@
+{
+  "movieData": [
+    {
+        "movieTitle": "Superman",
+        "movieYear": 2025,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-08-14T07:00:00.000Z",
+        "movieComments": "I'm so glad they made a superman movie that was actually kind of good. I'm glad they didnt do another origin story and just got straight into it. Also Lois Lanes character actually had some agency in the movie which was a nice change. "
+    },
+    {
+        "movieTitle": "Mickey 17",
+        "movieYear": 2025,
+        "myRating": 9,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-07-31T07:00:00.000Z",
+        "movieComments": "still like this movie"
+    },
+    {
+        "movieTitle": "The Amateur",
+        "movieYear": 2025,
+        "myRating": 9,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-07-31T07:00:00.000Z",
+        "movieComments": "An action movie I actually liked wow."
+    },
+    {
+        "movieTitle": "Happy Gilmore 2",
+        "movieYear": 2025,
+        "myRating": 7,
+        "dateWatched": "2025-07-31T07:00:00.000Z",
+        "theaterOrHome": "Home",
+        "movieComments": "basically the same as the first? its kinda funny."
+    },
+    {
+        "movieTitle": "How to Train Your Dragon",
+        "movieYear": 2025,
+        "myRating": 7.5,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-07-31T07:00:00.000Z",
+        "movieComments": "its almost unchanged from the animated version. I think i liked the animated version more though."
+    },
+    {
+        "movieTitle": "A Star Is Born",
+        "movieYear": 2018,
+        "myRating": 6,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-07-31T07:00:00.000Z",
+        "movieComments": "Depressing as fuck."
+    },
+    {
+        "movieTitle": "Sinners",
+        "movieYear": 2025,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-07-31T07:00:00.000Z",
+        "movieComments": "This was basically from dusk til dawn but in the American south… the music is pretty good and there's some cool scenes but I don't know why this has a 98% on rottentomatoes. "
+    },
+    {
+        "movieTitle": "Five Nights at Freddy's",
+        "movieYear": 2023,
+        "myRating": 6,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-07-06T07:00:00.000Z",
+        "movieComments": "A good pg-13 horror movie for kids. However it's not good compared to other horror movies. Also the acting was really bad."
+    },
+    {
+        "movieTitle": "Thunderbolts*",
+        "movieYear": 2025,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-07-05T07:00:00.000Z",
+        "movieComments": "The first good marvel movie in a while. That said the villain was written pretty poorly. For the director of the CIA she seemed really dumb."
+    },
+    {
+        "movieTitle": "Now You See Me",
+        "movieYear": 2013,
+        "myRating": 7,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-06-30T07:00:00.000Z",
+        "movieComments": "I would rank this higher if the plot had a little less going on. It's hard to follow sometimes."
+    },
+    {
+        "movieTitle": "The Wild Robot",
+        "movieYear": 2024,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-06-23T07:00:00.000Z",
+        "movieComments": "Animation was cool better than a lot of pixar movies lately honestly."
+    },
+    {
+        "movieTitle": "KPop Demon Hunters",
+        "movieYear": 2025,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2025-06-22T07:00:00.000Z",
+        "movieComments": "Felt like a disney movie with kpop? Songs were fire."
+    }
+]
+}
