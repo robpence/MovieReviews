@@ -1,0 +1,20 @@
+{
+  "movieData": [
+        {
+            "movieTitle": "Superman",
+            "movieYear": "2025",
+            "myRating": "8",
+            "theaterOrHome": "Home",
+            "dateWatched": "08/14/2025",
+            "movieComments": "I'm so glad they made a superman movie that was actually kind of good. I'm glad they didnt do another origin story and just got straight into it. Also Lois Lanes character actually had some agency in the movie which was a nice change."
+        },
+        {
+            "movieTitle": "Happy Gilmore 2",
+            "movieYear": "2025",
+            "myRating": "7",
+            "theaterOrHome": "Home",
+            "dateWatched": "07/14/2025",
+            "movieComments": "Basically the same as the first? its kinda funny."
+        }
+    ]
+}
