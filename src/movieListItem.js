@@ -38,7 +38,7 @@ function MovieListItem({movie}) {
           <div class="InfoContainer">
             <div class="MovieTitle">{data.Title}</div>
             <div class="MovieMetadata">{data.Year}&nbsp;&nbsp;&nbsp;&nbsp;{data.Runtime}&nbsp;&nbsp;&nbsp;&nbsp;{data.Rated}</div>
-            <div class="MovieRating"><span class="fa fa-star checked"></span> 8</div>
+            <div class="MovieRating"><span class="fa fa-star checked"></span> {movie.myRating}</div>
           </div>
           <div class="MovieInfo">
             <i title={movie.movieComments} class="fas fa-info-circle"></i>
