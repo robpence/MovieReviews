@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from 'react';
 
-function MovieListItem({movie}) {
+function MovieListItem({movie, movieArray}) {
 
   const [data, setData] = useState(null);
-  const [isLoading, setIsLoading] = useState(true); 
+  const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // Need to setup a config or something
+  // make requests to get movie data in this format 1000 a day
+  // https://www.omdbapi.com/?apikey=****&t=superman&y=2025
   const apiKey = process.env.REACT_APP_API_KEY;
   let url = "https://www.omdbapi.com/?apikey=" + apiKey + "&t=" + movie.movieTitle + "&y=" + movie.movieYear
   
@@ -24,7 +25,7 @@ function MovieListItem({movie}) {
       }
     }
     fetchData();
-  }, []);
+  }, [movieArray]); // we need to rerun every time we set the pagination number...
 
   if (isLoading) return <div>Loading…</div>;
   if (error) return <div>Error: {error}</div>;
@@ -41,12 +42,12 @@ function MovieListItem({movie}) {
             <div class="MovieRating"><span class="fa fa-star checked"></span> {movie.myRating}</div>
           </div>
           <div class="MovieInfo">
-            <i title={movie.movieComments} class="fas fa-info-circle"></i>
+            <i title={data.Plot} class="fas fa-info-circle"></i>
           </div>
         </div>
         <div class="MovieDescription">
           <p>
-            {data.Plot}
+            {movie.movieComments}
           </p>
         </div>
       </div>

@@ -1,7 +1,23 @@
 .App {
   text-align: center;
-  background-color: lightgray;
+  background-color: #9eb2dd;
 }
+
+/*
+Blockbuster Yellows
+#ffa900
+#ffba33
+#ffcb66
+#ffdd99
+#ffeecc
+
+Blockbuster Blues
+#0d3fa9
+#3d65ba
+#6e8ccb
+#9eb2dd
+#cfd9ee
+*/
 
 .App-logo {
   height: 40vmin;
@@ -15,14 +31,15 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0d3fa9;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #ffa900;
   min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
@@ -44,7 +61,7 @@
   border: black;
   border-style: solid;
   border-width: 2px;
-  background-color: beige;
+  background-color: #ffeecc;
   margin-top: 5px;
 }
 
@@ -95,6 +112,11 @@
 .MovieDescription {
   padding-left: 10px;
   text-align: left;
+}
+
+.PaginationButton {
+  background-color: #ffa900;
+  color: #0d3fa9;
 }
 
 .checked {

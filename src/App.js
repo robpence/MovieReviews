@@ -2,18 +2,41 @@ import logo from './logo.svg';
 import './App.css';
 import data from './movieDataLarge.json'
 import MovieListItem from './movieListItem';
+import CustomPagination from './CustomPagination.js';
+import React, { useState, useEffect } from 'react';
 
 function App() {
 
-  // const headers = Object.keys(data[0]);
-  let movieData = data.movieData;
+  // Initial values
+  const movieData = data.movieData;
+  const DEFAULT_PAGE = 1;  
+  const DEFAULT_PAGE_SIZE = 5;
+  const DEFAULT_ARRAY = movieData.slice((DEFAULT_PAGE-1) * DEFAULT_PAGE_SIZE, (DEFAULT_PAGE-1) * DEFAULT_PAGE_SIZE + DEFAULT_PAGE_SIZE);
 
-  // const headers = Object.keys(data.movieData[0]);
-  // console.log(headers);
-  // const rows = data.movieData.map(item => Object.values(item));
-  // console.log(rows);
-  // make requests to get movie data in this format 1000 a day
-  // https://www.omdbapi.com/?apikey=****&t=superman&y=2025
+  const [currentPage, setCurrentPage] = useState(DEFAULT_PAGE);
+  const [movieArray, setMovieArray] = useState(DEFAULT_ARRAY);
+  let paginatedArray = [];
+
+  // Called when the Pagination buttons are clicked.
+  const handlePageChange = (value) => {
+    // Set the pagination button to the value clicked.
+    setCurrentPage(value);
+    // console.log("Set currentPage To: ", value);
+
+    // Paginate the array based on the page number we start with 1
+    paginatedArray = movieData.slice((value-1) * DEFAULT_PAGE_SIZE, (value-1) * DEFAULT_PAGE_SIZE + DEFAULT_PAGE_SIZE);
+    // console.log("Set paginatedArray: ", paginatedArray);
+    setMovieArray(paginatedArray);
+  };
+
+  // Every time one of the pagination buttons is clicked it rerenders the page which calls this.
+  useEffect(() => {
+    // This is just to rerender the page if the Pagination button is clicked.
+  }, [currentPage]);
+
+  // for the pagination buttons...
+  const totalMovies = movieData.length;  
+  const totalPages = Math.ceil(totalMovies / DEFAULT_PAGE_SIZE);
 
   return (
     <div className="App">
@@ -24,11 +47,14 @@ function App() {
         </p>
       </header>
 
-      {movieData.map((movie, index) => (
-        <MovieListItem key={index} movie={movie}/>
+      {movieArray.map((movie, index) => (
+        <MovieListItem key={index} movie={movie} movieArray={movieArray}/>
       ))}
 
+      <CustomPagination page={currentPage}  totalPages={totalPages}  onChange={handlePageChange}/>
+
     </div>
+
   );
 }
 
