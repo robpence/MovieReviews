@@ -7,10 +7,24 @@ import React, { useState, useEffect } from 'react';
 
 function App() {
 
+  // THEME SWITCHER START
+  const [theme, setTheme] = useState('default'); // Initial theme
+
+  // Update the data-theme attribute on the <html> tag
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme);
+  }, [theme]); // Re-run effect when 'theme' changes
+
+  const handleThemeChange = (newTheme) => {
+    setTheme(newTheme);
+  };
+  // THEME SWITCHER END
+
+  // PAGINATION START
   // Initial values
-  const movieData = data.movieData;
+  const movieData = data.movieData.reverse();
   const DEFAULT_PAGE = 1;  
-  const DEFAULT_PAGE_SIZE = 5;
+  const DEFAULT_PAGE_SIZE = 10;
   const DEFAULT_ARRAY = movieData.slice((DEFAULT_PAGE-1) * DEFAULT_PAGE_SIZE, (DEFAULT_PAGE-1) * DEFAULT_PAGE_SIZE + DEFAULT_PAGE_SIZE);
 
   const [currentPage, setCurrentPage] = useState(DEFAULT_PAGE);
@@ -37,6 +51,7 @@ function App() {
   // for the pagination buttons...
   const totalMovies = movieData.length;  
   const totalPages = Math.ceil(totalMovies / DEFAULT_PAGE_SIZE);
+  // PAGINATION START
 
   return (
     <div className="App">
@@ -45,7 +60,27 @@ function App() {
         <p>
           Just a website where I post my dumb movie reviews
         </p>
+        {/* <div class="searchbar-sort-container">
+          <div class="searchbar-container">
+            <label for="search">Search:</label>
+            <input type="text" id="search" name="search" placeholder="Search movie titles..."/>
+          </div>
+          <div class="sort-dropdown-container">
+            <label for="sort-by">Sort by:</label>
+            <select id="sort-by" name="sort-by">
+                <option value="default-newest">Newest Review</option>
+                <option value="rating-asc">Rating high to Low</option>
+                <option value="rating-desc">Rating low to High</option>
+            </select>
+          </div>
+        </div> */}
       </header>
+
+      <div className='ThemeButtonDiv'>
+        <button className= "ThemeButtons" onClick={() => handleThemeChange('default')}>D</button>
+        <button className= "ThemeButtons" onClick={() => handleThemeChange('netflix')}>N</button>
+        <button className= "ThemeButtons" onClick={() => handleThemeChange('blockbuster')}>B</button>
+      </div>
 
       {movieArray.map((movie, index) => (
         <MovieListItem key={index} movie={movie} movieArray={movieArray}/>

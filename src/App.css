@@ -1,23 +1,44 @@
-.App {
-  text-align: center;
-  background-color: #9eb2dd;
+:root {
+  --primary-color: #14181c; /* Default theme */
+  --secondary-color: green;
+  --background-color: #14181c;
+  --text-color: white;
 }
 
-/*
-Blockbuster Yellows
-#ffa900
-#ffba33
-#ffcb66
-#ffdd99
-#ffeecc
+[data-theme="netflix"] {
+  --primary-color: black;
+  --secondary-color: white;
+  --background-color: black;
+  --text-color: #e50914;
+}
 
-Blockbuster Blues
-#0d3fa9
-#3d65ba
-#6e8ccb
-#9eb2dd
-#cfd9ee
-*/
+[data-theme="blockbuster"] {
+  --primary-color: #0d3fa9; /* Default theme */
+  --secondary-color: #ffa900;
+  --background-color: #9eb2dd;
+  --text-color: #ffa900;
+}
+
+.ThemeButtonDiv {
+  color: var(--text-color);
+  background-color: var(--primary-color);
+  position: fixed;
+  top: 0;
+  right: 0;
+  /* Optional: Add padding for spacing from the edges */
+  padding: 10px;
+  /* Optional: Add z-index to ensure it stays on top of other content */
+  z-index: 1000;
+}
+.ThemeButtons {
+  color: var(--text-color);
+  background-color: var(--primary-color);
+}
+
+.App {
+  text-align: center;
+  background-color: var(--background-color);
+}
 
 .App-logo {
   height: 40vmin;
@@ -31,15 +52,15 @@ Blockbuster Blues
 }
 
 .App-header {
-  background-color: #0d3fa9;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: #ffa900;
-  min-height: 20vh;
+  background-color: var(--primary-color);
+  font-family: 'Arial', sans-serif;
+  color: var(--text-color);
+  min-height: 15vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 1vmin);
 }
 
 .App-link {
@@ -58,10 +79,11 @@ Blockbuster Blues
 .MovieListElement {
   width: 50%;
   margin: 0 auto;
-  border: black;
+  border: lightslategray;
+  color: white;
   border-style: solid;
   border-width: 2px;
-  background-color: #ffeecc;
+  background-color: #14181c;
   margin-top: 5px;
 }
 
@@ -115,8 +137,8 @@ Blockbuster Blues
 }
 
 .PaginationButton {
-  background-color: #ffa900;
-  color: #0d3fa9;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
 }
 
 .checked {
@@ -126,6 +148,57 @@ Blockbuster Blues
 .fas.fa-info-circle {
     font-size: 24px;
     color: gray;
+}
+
+.searchbar-sort-container {
+    display: flex; /* Aligns label and select horizontally */
+    justify-content: space-between; /* Space between search bar and sort dropdown */
+    align-items: center; /* Vertically center the items */
+    margin: 20px 0; /* Space above and below the container */
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: medium;
+    font-family: serif;
+}
+
+.searchbar-container {
+    display: flex; /* Aligns label and select horizontally */
+    align-items: left;
+}
+
+.sort-dropdown-container {
+    display: flex; /* Aligns label and select horizontally */
+    align-items: right;
+    gap: 10px; /* Space between label and select */
+}
+
+.sort-dropdown-container label {
+    font-size: 0.9em;
+    color: #555;
+}
+
+.sort-dropdown-container select {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    font-size: 0.9em;
+    cursor: pointer;
+    -webkit-appearance: none; /* Removes default browser styling for select */
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007bff%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%00-13.2-5.4H18.2c-4.9%200-9.4%201.8-13.2%205.4C1.8%2073.2%200%2077.7%200%2082.6c0%204.9%201.8%209.4%205.4%2013.2l128.9%20128.9c3.7%203.7%208.2%205.4%2013.2%205.4s9.4-1.8%2013.2-5.4L287%2095.8c3.7-3.7%205.4-8.2%205.4-13.2%200-4.9-1.8-9.4-5.4-13.2z%22%2F%3E%3C%2Fsvg%3E'); /* Custom arrow icon */
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+    background-size: 12px;
+    padding-right: 30px; /* Adjust padding for custom arrow */
+}
+
+.sort-dropdown-container select:focus {
+    outline: none;
+    border-color: #007bff; /* Example focus color */
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25); /* Example focus shadow */
 }
 
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css');

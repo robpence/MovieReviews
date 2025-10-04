@@ -1,100 +1,585 @@
 {
   "movieData": [
-    {
-        "movieTitle": "Superman",
-        "movieYear": 2025,
-        "myRating": 8,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-08-14T07:00:00.000Z",
-        "movieComments": "I'm so glad they made a superman movie that was actually kind of good. I'm glad they didnt do another origin story and just got straight into it. Also Lois Lanes character actually had some agency in the movie which was a nice change. "
-    },
-    {
-        "movieTitle": "Mickey 17",
-        "movieYear": 2025,
-        "myRating": 9,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-07-31T07:00:00.000Z",
-        "movieComments": "still like this movie"
-    },
-    {
-        "movieTitle": "The Amateur",
-        "movieYear": 2025,
-        "myRating": 9,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-07-31T07:00:00.000Z",
-        "movieComments": "An action movie I actually liked wow."
-    },
-    {
-        "movieTitle": "Happy Gilmore 2",
-        "movieYear": 2025,
-        "myRating": 7,
-        "dateWatched": "2025-07-31T07:00:00.000Z",
-        "theaterOrHome": "Home",
-        "movieComments": "basically the same as the first? its kinda funny."
-    },
-    {
-        "movieTitle": "How to Train Your Dragon",
-        "movieYear": 2025,
-        "myRating": 7.5,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-07-31T07:00:00.000Z",
-        "movieComments": "its almost unchanged from the animated version. I think i liked the animated version more though."
-    },
-    {
-        "movieTitle": "A Star Is Born",
-        "movieYear": 2018,
-        "myRating": 6,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-07-31T07:00:00.000Z",
-        "movieComments": "Depressing as fuck."
-    },
-    {
-        "movieTitle": "Sinners",
-        "movieYear": 2025,
-        "myRating": 8,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-07-31T07:00:00.000Z",
-        "movieComments": "This was basically from dusk til dawn but in the American south… the music is pretty good and there's some cool scenes but I don't know why this has a 98% on rottentomatoes. "
-    },
-    {
-        "movieTitle": "Five Nights at Freddy's",
-        "movieYear": 2023,
-        "myRating": 6,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-07-06T07:00:00.000Z",
-        "movieComments": "A good pg-13 horror movie for kids. However it's not good compared to other horror movies. Also the acting was really bad."
-    },
-    {
-        "movieTitle": "Thunderbolts*",
-        "movieYear": 2025,
-        "myRating": 8,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-07-05T07:00:00.000Z",
-        "movieComments": "The first good marvel movie in a while. That said the villain was written pretty poorly. For the director of the CIA she seemed really dumb."
-    },
-    {
-        "movieTitle": "Now You See Me",
-        "movieYear": 2013,
-        "myRating": 7,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-06-30T07:00:00.000Z",
-        "movieComments": "I would rank this higher if the plot had a little less going on. It's hard to follow sometimes."
-    },
-    {
-        "movieTitle": "The Wild Robot",
-        "movieYear": 2024,
-        "myRating": 8,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-06-23T07:00:00.000Z",
-        "movieComments": "Animation was cool better than a lot of pixar movies lately honestly."
-    },
-    {
-        "movieTitle": "KPop Demon Hunters",
-        "movieYear": 2025,
-        "myRating": 8,
-        "theaterOrHome": "Home",
-        "dateWatched": "2025-06-22T07:00:00.000Z",
-        "movieComments": "Felt like a disney movie with kpop? Songs were fire."
-    }
+  {
+    "movieTitle": "Wicked",
+    "movieYear": 2024,
+    "myRating": 7,
+    "dateWatched": 45658,
+    "movieComments": "I thought ariana grande did good, plot was pretty predictable though."
+  },
+  {
+    "movieTitle": "The Six Triple Eight",
+    "movieYear": 2024,
+    "myRating": 6,
+    "dateWatched": 45660,
+    "movieComments": "Its a true story but im annoyed at how they made this whole thing about delivering the mail will raise morale but then only really showed them delivering mail like once... Also the mail only really gets delivered after the war in europe is over."
+  },
+  {
+    "movieTitle": "Red One",
+    "movieYear": 2024,
+    "myRating": 5,
+    "dateWatched": 45661,
+    "movieComments": "nah"
+  },
+  {
+    "movieTitle": "Alien Weekend",
+    "movieYear": 2024,
+    "myRating": 5,
+    "dateWatched": 45667,
+    "movieComments": "the alien is a blue sloth and no one knows how to act"
+  },
+  {
+    "movieTitle": "Challengers",
+    "movieYear": 2024,
+    "myRating": 8,
+    "dateWatched": 45668,
+    "movieComments": "Not as good the second time but still a good movie"
+  },
+  {
+    "movieTitle": "Fury",
+    "movieYear": 2024,
+    "myRating": 7,
+    "dateWatched": 45669,
+    "movieComments": "goryer than i thought it would be"
+  },
+  {
+    "movieTitle": "Fired Up",
+    "movieYear": 2009,
+    "myRating": 8,
+    "dateWatched": 45675,
+    "movieComments": "i like this movie"
+  },
+  {
+    "movieTitle": "Fifty Shades of Grey",
+    "movieYear": 2025,
+    "myRating": 6,
+    "dateWatched": 45675,
+    "movieComments": "Dudes a stalker. Also Its like reading a bad smut novel for women, the plot is very forced. The ending is pretty poorly written, if the ending was different id probably give this an 8"
+  },
+  {
+    "movieTitle": "6 Underground",
+    "movieYear": 2019,
+    "myRating": 6,
+    "dateWatched": 45676,
+    "movieComments": "Wants to be Deadpool but isn't"
+  },
+  {
+    "movieTitle": "Transformers One",
+    "movieYear": 2024,
+    "myRating": 8,
+    "dateWatched": 45681,
+    "movieComments": "Surprisingly good probably the best transformers movie"
+  },
+  {
+    "movieTitle": "Book smart",
+    "movieYear": 2019,
+    "myRating": 7,
+    "dateWatched": 45682,
+    "movieComments": "Decent teen party movie I guess. Like a woman version of Superbad?"
+  },
+  {
+    "movieTitle": "Sonic the hedgehog 3",
+    "movieYear": 2024,
+    "myRating": 8,
+    "dateWatched": "1/26/0205",
+    "movieComments": "Stupid but really fun. If you like Jim Carrey you will like this movie."
+  },
+  {
+    "movieTitle": "Bottoms",
+    "movieYear": 2023,
+    "myRating": 8,
+    "dateWatched": "1/26/0205",
+    "movieComments": "Marshawn lynch is pretty funny. Also the ending fight scene wtf lol."
+  },
+  {
+    "movieTitle": "Transformers: Age of Extinction",
+    "movieYear": 2014,
+    "myRating": 6,
+    "dateWatched": 45684,
+    "movieComments": "Too long. But the movie was okay overall. Writing was pretty bad. Also why are there only 5 autobots? Like wtf…"
+  },
+  {
+    "movieTitle": "Transformers: The Last Knight",
+    "movieYear": 2017,
+    "myRating": 3,
+    "dateWatched": 45684,
+    "movieComments": "wtf even happened in this movie "
+  },
+  {
+    "movieTitle": "It's a Boy Girl Thing",
+    "movieYear": 2006,
+    "myRating": 7.5,
+    "dateWatched": 45685,
+    "movieComments": "pretty funny"
+  },
+  {
+    "movieTitle": "Bumblebee",
+    "movieYear": 2018,
+    "myRating": 9,
+    "dateWatched": 45685,
+    "movieComments": "I like how Bee is the only transformer thats actually good at killing"
+  },
+  {
+    "movieTitle": "Transformers: Rise of the Beasts",
+    "movieYear": 2023,
+    "myRating": 7,
+    "dateWatched": 45686,
+    "movieComments": "They had to take out bumblebee for half the movie because he was too OP. All the others dont know how to fight apparently. "
+  },
+  {
+    "movieTitle": "Landscape with Invisible Hand",
+    "movieYear": 2023,
+    "myRating": 7,
+    "dateWatched": 45687,
+    "movieComments": "Wierd movie"
+  },
+  {
+    "movieTitle": "Moana 2",
+    "movieYear": 2024,
+    "myRating": 7.5,
+    "dateWatched": 45687,
+    "movieComments": "Entertaining but not as good as the first one. Too many characters that dont need to be there. "
+  },
+  {
+    "movieTitle": "Anora",
+    "movieYear": 2024,
+    "myRating": 9,
+    "dateWatched": 45688,
+    "movieComments": "Probably the best movie I've watched recently. Its not a thriller but it is thrilling. "
+  },
+  {
+    "movieTitle": "The Menu",
+    "movieYear": 2022,
+    "myRating": 8,
+    "dateWatched": 45692,
+    "movieComments": "Suprisingly good. "
+  },
+  {
+    "movieTitle": "A Knight's Tale",
+    "movieYear": 2001,
+    "myRating": 7,
+    "dateWatched": 45696,
+    "movieComments": "Would be better without the 2000s music in the medieval scenes"
+  },
+  {
+    "movieTitle": "The Voices",
+    "movieYear": 2014,
+    "myRating": 6,
+    "dateWatched": 45696,
+    "movieComments": "disturbing. wtf ryan renolds"
+  },
+  {
+    "movieTitle": "Rapture-Palooza",
+    "movieYear": 2013,
+    "myRating": 1,
+    "dateWatched": 45696,
+    "movieComments": "just a bad comedy movie. "
+  },
+  {
+    "movieTitle": "Hot Tub Time Machine 2",
+    "movieYear": 2015,
+    "myRating": 6,
+    "dateWatched": 45701,
+    "movieComments": "Worse than the first one"
+  },
+  {
+    "movieTitle": "That Thing You Do!",
+    "movieYear": 1996,
+    "myRating": 6,
+    "dateWatched": 45701,
+    "movieComments": "Kinda boring but the song is catchy"
+  },
+  {
+    "movieTitle": "Warm Bodies",
+    "movieYear": 2013,
+    "myRating": 7,
+    "dateWatched": "02/11/0203",
+    "movieComments": "not as good as i remembered"
+  },
+  {
+    "movieTitle": "The Gorge",
+    "movieYear": 2025,
+    "myRating": 7.5,
+    "dateWatched": 45337,
+    "movieComments": "Almost a really good movie. The sterotypical evil military contractor plotline is kinda lame, if they got rid of that id give this like an 8.5"
+  },
+  {
+    "movieTitle": "Amsterdam",
+    "movieYear": 2022,
+    "myRating": 5,
+    "dateWatched": 45338,
+    "movieComments": "This movie is probably good, but its a movie my parents would watch and I just got really bored. "
+  },
+  {
+    "movieTitle": "Chief of Station",
+    "movieYear": 2024,
+    "myRating": 7,
+    "dateWatched": 45340,
+    "movieComments": "generic action movie"
+  },
+  {
+    "movieTitle": "Dhoom ",
+    "movieYear": 2004,
+    "myRating": 7,
+    "dateWatched": 45341,
+    "movieComments": "maybe i liked the second one more. the song slaps tho."
+  },
+  {
+    "movieTitle": "You've Got Mail",
+    "movieYear": 1998,
+    "myRating": 8,
+    "dateWatched": 45728,
+    "movieComments": "good romance movie"
+  },
+  {
+    "movieTitle": "Captain America: Brave New World",
+    "movieYear": 2025,
+    "myRating": 5,
+    "dateWatched": 45732,
+    "movieComments": "Just not good."
+  },
+  {
+    "movieTitle": "Harry Potter and the Sorcerer's Stone",
+    "movieYear": 2001,
+    "myRating": 9,
+    "dateWatched": 45746,
+    "movieComments": "Still holds up"
+  },
+  {
+    "movieTitle": "Harry Potter and the Chamber of Secrets",
+    "movieYear": 2002,
+    "myRating": 7,
+    "dateWatched": 45746,
+    "movieComments": "big snake"
+  },
+  {
+    "movieTitle": "Harry Potter and the Prisoner of Azkaban",
+    "movieYear": 2004,
+    "myRating": 6,
+    "dateWatched": 45746,
+    "movieComments": "the bad one"
+  },
+  {
+    "movieTitle": "Harry Potter and the Goblet of Fire",
+    "movieYear": 2005,
+    "myRating": 9,
+    "dateWatched": 45747,
+    "movieComments": "this is probably the one ive rewatched the most"
+  },
+  {
+    "movieTitle": "Harry Potter and the Order of the Phoenix",
+    "movieYear": 2007,
+    "myRating": 8,
+    "dateWatched": 45747,
+    "movieComments": "good"
+  },
+  {
+    "movieTitle": "Harry Potter and the Half-Blood Prince",
+    "movieYear": 2009,
+    "myRating": 8,
+    "dateWatched": 45747,
+    "movieComments": "good"
+  },
+  {
+    "movieTitle": "Harry Potter and the Deathly Hallows: Part 1",
+    "movieYear": 2010,
+    "myRating": 5,
+    "dateWatched": 45747,
+    "movieComments": "The boring depressing one"
+  },
+  {
+    "movieTitle": "The Fifth Element",
+    "movieYear": 1997,
+    "myRating": 8,
+    "dateWatched": 45752,
+    "movieComments": "still holds up"
+  },
+  {
+    "movieTitle": "Puss in Boots: The Last Wish",
+    "movieYear": 2022,
+    "myRating": 9,
+    "dateWatched": 45752,
+    "movieComments": "Very good, I wished I had watched this soon I like the animation for the death wolf guy"
+  },
+  {
+    "movieTitle": "Hot Fuzz",
+    "movieYear": 2007,
+    "myRating": 8,
+    "dateWatched": 45759,
+    "movieComments": "Idk if this is better than shuan of the dead but its still pretty funny"
+  },
+  {
+    "movieTitle": "The Art of Self-Defense",
+    "movieYear": 2019,
+    "myRating": 8,
+    "dateWatched": 45765,
+    "movieComments": "Quirky but i liked it. Moral of the story is to just buy a gun lol"
+  },
+  {
+    "movieTitle": "Conclave",
+    "movieYear": 2024,
+    "myRating": 8,
+    "dateWatched": 45776,
+    "movieComments": "Ending felt like pandering but overall the movie was good"
+  },
+  {
+    "movieTitle": "Exterritorial",
+    "movieYear": 2025,
+    "myRating": 5,
+    "dateWatched": 45777,
+    "movieComments": "Just not good? Budget german taken movie."
+  },
+  {
+    "movieTitle": "Mickey 17",
+    "movieYear": 2025,
+    "myRating": 9,
+    "dateWatched": 45778,
+    "movieComments": "I really enjoyed this movie. The premise, the scifi, all of it."
+  },
+  {
+    "movieTitle": "Mr. Right",
+    "movieYear": 2015,
+    "myRating": 6,
+    "dateWatched": 45779,
+    "movieComments": "meh"
+  },
+  {
+    "movieTitle": "The To Do List",
+    "movieYear": 2013,
+    "myRating": 7,
+    "dateWatched": 45780,
+    "movieComments": "decent teen comedy"
+  },
+  {
+    "movieTitle": "Blind Dating",
+    "movieYear": 2006,
+    "myRating": 6,
+    "dateWatched": 45781,
+    "movieComments": "meh"
+  },
+  {
+    "movieTitle": "Man Up",
+    "movieYear": 2015,
+    "myRating": 5,
+    "dateWatched": 45782,
+    "movieComments": "pretty boring"
+  },
+  {
+    "movieTitle": "Snow White ",
+    "movieYear": 2025,
+    "myRating": 1,
+    "dateWatched": 45783,
+    "movieComments": "just really boring, nothing to like here. Rachael and Gal did good though for what they had to work with."
+  },
+  {
+    "movieTitle": "Rogue One: A Star Wars Story",
+    "movieYear": 2016,
+    "myRating": 8,
+    "dateWatched": 45784,
+    "movieComments": "Good movie, hits different after watching andor season 2"
+  },
+  {
+    "movieTitle": "Presence",
+    "movieYear": 2024,
+    "myRating": 6,
+    "dateWatched": 45822,
+    "movieComments": "the twist at the end was good everything else not so much"
+  },
+  {
+    "movieTitle": "KPop Demon Hunters",
+    "movieYear": 2025,
+    "myRating": 8,
+    "dateWatched": 45830,
+    "movieComments": "felt like a disney movie with kpop? good kids movie I guess. Good songs."
+  },
+  {
+    "movieTitle": "The Wild Robot",
+    "movieYear": 2024,
+    "myRating": 8,
+    "dateWatched": 45831,
+    "movieComments": "Animation was cool better than alot of pixar movies lately honestly."
+  },
+  {
+    "movieTitle": "Now You See Me",
+    "movieYear": 2013,
+    "myRating": 7,
+    "dateWatched": 45838,
+    "movieComments": "I would rank this higher if the plot had a little less going on. It's hard to follow sometime. "
+  },
+  {
+    "movieTitle": "Thunderbolts*",
+    "movieYear": 2025,
+    "myRating": 8,
+    "dateWatched": 45843,
+    "movieComments": "The first good marvel movie in a while. That said the villain was written pretty poorly. For the director of the cia she seemed really dumb. "
+  },
+  {
+    "movieTitle": "Five Nights At Freddy's",
+    "movieYear": 2023,
+    "myRating": 6,
+    "dateWatched": 45844,
+    "movieComments": "A good pg-13 horror movie for kids. However it's not good compared to other horror movies. Also the acting was kinda bad. "
+  },
+  {
+    "movieTitle": "Sinners",
+    "movieYear": 2025,
+    "myRating": 8,
+    "dateWatched": 45846,
+    "movieComments": "This was basically from dusk til dawn but in the American south… the music is pretty good and there's some cool scenes but I don't know why this has a 98% on rottentomatoes. "
+  },
+  {
+    "movieTitle": "Zombies 4: Dawn of the Vampires",
+    "movieYear": 2025,
+    "myRating": 7,
+    "dateWatched": 45847,
+    "movieComments": "I dont know why I watched this. Not terrible but not very good."
+  },
+  {
+    "movieTitle": "A Star Is Born",
+    "movieYear": 2018,
+    "myRating": 7,
+    "dateWatched": 45848,
+    "movieComments": "depressing as shit"
+  },
+  {
+    "movieTitle": "How to Train Your Dragon",
+    "movieYear": 2025,
+    "myRating": 7.5,
+    "dateWatched": 45849,
+    "movieComments": "its almost unchanged from the animated version. I think i liked the animated version more though."
+  },
+  {
+    "movieTitle": "Happy Gilmore 2",
+    "movieYear": 2025,
+    "myRating": 7,
+    "dateWatched": 45850,
+    "movieComments": "basically the same as the first? its kinda funny."
+  },
+  {
+    "movieTitle": "The Amateur",
+    "movieYear": 2025,
+    "myRating": 9,
+    "dateWatched": 45869,
+    "movieComments": "An action movie I actually liked wow."
+  },
+  {
+    "movieTitle": "Mickey 17",
+    "movieYear": 2025,
+    "myRating": 9,
+    "dateWatched": 45869,
+    "movieComments": "still like this movie"
+  },
+  {
+    "movieTitle": "The Lizzie McGuire Movie",
+    "movieYear": 2003,
+    "myRating": 8,
+    "dateWatched": 45875,
+    "movieComments": "This movie holds up suprisingly well. Or nostalgia did a lot of work here."
+  },
+  {
+    "movieTitle": "Superman",
+    "movieYear": 2025,
+    "myRating": 8,
+    "dateWatched": 45883,
+    "movieComments": "I'm so glad they made a superman movie that was actually kind of good. I'm glad they didnt do another origin story and just got straight into it. Also Lois Lanes character actually had some agency in the movie which was a nice change. "
+  },
+  {
+    "movieTitle": "Plane",
+    "movieYear": 2023,
+    "myRating": 7.5,
+    "dateWatched": 45894,
+    "movieComments": "If the airline scenes were more accurate then this wouldve been like a 8.5 Both the engines were still on and they had enough control to land so im confused as to why they had to land in the first place... The movie is still good overall. "
+  },
+  {
+    "movieTitle": "Hostile",
+    "movieYear": 2017,
+    "myRating": 7,
+    "dateWatched": 45895,
+    "movieComments": "I dont know how historically accurate this film is but if it is then thats good. "
+  },
+  {
+    "movieTitle": "Highest 2 Lowest",
+    "movieYear": 2025,
+    "myRating": 7,
+    "dateWatched": 45896,
+    "movieComments": "Honestly pretty boring movie. The music was pretty mid considering the main character is a music producer. Couple of good jokes in there though."
+  },
+  {
+    "movieTitle": "Elio",
+    "movieYear": 2025,
+    "myRating": 7,
+    "dateWatched": 45897,
+    "movieComments": "Maybe im too old for this movie, but i didnt like how all the aliens acted like kids and then proceeded to get mad at elio for being a kid."
+  },
+  {
+    "movieTitle": "Sky High",
+    "movieYear": 2005,
+    "myRating": 7,
+    "dateWatched": 42259,
+    "movieComments": "I cant believe i rewatched this, also I cant believe they never turned this into a tv show. I like how campy the superpowers are."
+  },
+  {
+    "movieTitle": "The Wrong Paris",
+    "movieYear": 2025,
+    "myRating": 8,
+    "dateWatched": 42259,
+    "movieComments": "I thought of the plot to this fake dating show years ago... I want my writers credit. Cute rom com. Glad iCarly is acting still."
+  },
+  {
+    "movieTitle": "Warfare",
+    "movieYear": 2025,
+    "myRating": 7,
+    "dateWatched": 45914,
+    "movieComments": "Good but not great. It makes the whole \"why were we even there\" point. "
+  },
+  {
+    "movieTitle": "Yesterday",
+    "movieYear": 2019,
+    "myRating": 7,
+    "dateWatched": 45915,
+    "movieComments": "I like the Beatles music. "
+  },
+  {
+    "movieTitle": "The Man from Toronto",
+    "movieYear": 2022,
+    "myRating": 8,
+    "dateWatched": 45916,
+    "movieComments": "Kevin hart is pretty funny"
+  },
+  {
+    "movieTitle": "The Fantastic Four: First Steps",
+    "movieYear": 2025,
+    "myRating": 7.5,
+    "dateWatched": 45917,
+    "movieComments": "I wanted to like this movie but it was kinda boring? The aesthetic was cool though. How the hell did galactus fall for the old teleport across the universe trick?"
+  },
+  {
+    "movieTitle": "The Girl Next Door",
+    "movieYear": 2004,
+    "myRating": 7.5,
+    "dateWatched": 45918,
+    "movieComments": "I'm surprised i havnt seen this sooner, its pretty funny."
+  },
+  {
+    "movieTitle": "Two Night Stand",
+    "movieYear": 2014,
+    "myRating": 7.5,
+    "dateWatched": 45919,
+    "movieComments": "The girl is really cute. Good short rom com. "
+  },
+  {
+    "movieTitle": "Flight Risk",
+    "movieYear": 2025,
+    "myRating": 2,
+    "dateWatched": 45929,
+    "movieComments": "Probably the worst movie ive seen all year. "
+  },
+  {
+    "movieTitle": "F1: The Movie",
+    "movieYear": 2025,
+    "myRating": 8,
+    "dateWatched": 45933,
+    "movieComments": "Good movie. Made me care a little more about the teamwork that goes into racing. "
+  }
 ]
 }
