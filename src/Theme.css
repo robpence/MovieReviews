@@ -1,0 +1,37 @@
+/* themes.css */
+:root {
+  --primary-color: darkgray; /* Default theme */
+  --secondary-color: green;
+  --background-color: lightgray;
+  --text-color: black;
+}
+
+[data-theme="netflix"] {
+  --primary-color: #e50914;
+  --secondary-color: white;
+  --background-color: black;
+  --text-color: #e50914;
+}
+
+[data-theme="blockbuster"] {
+  --primary-color: #0d3fa9; /* Default theme */
+  --secondary-color: #ffa900;
+  --background-color: #9eb2dd;
+  --text-color: #ffa900;
+}
+
+/*
+Blockbuster Yellows
+#ffa900
+#ffba33
+#ffcb66
+#ffdd99
+#ffeecc
+
+Blockbuster Blues
+#0d3fa9
+#3d65ba
+#6e8ccb
+#9eb2dd
+#cfd9ee
+*/
