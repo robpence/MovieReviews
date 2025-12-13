@@ -5,7 +5,16 @@ export function CustomPagination({
   page,  
   onChange,  
 }) {  
-  const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);  
+  const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);
+  
+  const handleChange = (number) => {
+    window.scrollTo({ 
+      top: 0, 
+      behavior: 'smooth' 
+    });
+    onChange(number);
+  };
+  
   return (  
     <ButtonGroup variant="outlined" aria-label="Basic button group">
       {pageNumbers.map((number) => {  
@@ -13,7 +22,7 @@ export function CustomPagination({
         return (  
           <Button  
             key={number}  
-            onClick={() => onChange(number)}  
+            onClick={() => handleChange(number)}
             color={buttonColor}
           >  
             {number}  

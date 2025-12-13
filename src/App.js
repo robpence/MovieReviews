@@ -1,11 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
+// import data from './movieDataLarge.json'
 import data from './movieDataLarge.json'
 import MovieListItem from './movieListItem';
 import CustomPagination from './CustomPagination.js';
+import SearchBar from './SearchBar.js';
+import SearchFilter from './SearchFilter.js';
 import React, { useState, useEffect } from 'react';
+import { wait } from '@testing-library/user-event/dist/utils/index.js';
 
 function App() {
+
+  // Initialize movie data from the JSON file
+  const movieData = data.movieData;
+  // const movieDataCopy = structuredClone(movieData);
 
   // THEME SWITCHER START
   const [theme, setTheme] = useState('default'); // Initial theme
@@ -20,37 +28,63 @@ function App() {
   };
   // THEME SWITCHER END
 
-  // PAGINATION START
-  // Initial values
-  const movieData = data.movieData.reverse();
-  const DEFAULT_PAGE = 1;  
-  const DEFAULT_PAGE_SIZE = 10;
-  const DEFAULT_ARRAY = movieData.slice((DEFAULT_PAGE-1) * DEFAULT_PAGE_SIZE, (DEFAULT_PAGE-1) * DEFAULT_PAGE_SIZE + DEFAULT_PAGE_SIZE);
+  // SEARCH AND FILTER START
+  const [searchTerm, setSearchTerm] = useState('');
+  const [filterTerm, setFilterTerm] = useState('default-newest');
 
-  const [currentPage, setCurrentPage] = useState(DEFAULT_PAGE);
-  const [movieArray, setMovieArray] = useState(DEFAULT_ARRAY);
-  let paginatedArray = [];
-
-  // Called when the Pagination buttons are clicked.
-  const handlePageChange = (value) => {
-    // Set the pagination button to the value clicked.
-    setCurrentPage(value);
-    // console.log("Set currentPage To: ", value);
-
-    // Paginate the array based on the page number we start with 1
-    paginatedArray = movieData.slice((value-1) * DEFAULT_PAGE_SIZE, (value-1) * DEFAULT_PAGE_SIZE + DEFAULT_PAGE_SIZE);
-    // console.log("Set paginatedArray: ", paginatedArray);
-    setMovieArray(paginatedArray);
+  const handleFilter = (event) => {
+    setFilterTerm(event.target.value);
+    // console.log("filterTerm: ", filterTerm);
   };
 
-  // Every time one of the pagination buttons is clicked it rerenders the page which calls this.
-  useEffect(() => {
-    // This is just to rerender the page if the Pagination button is clicked.
-  }, [currentPage]);
+  const handleSearch = (searchTerm) => {
+    setSearchTerm(searchTerm);
+    // console.log("Searchterm: ", searchTerm);
+  };
 
-  // for the pagination buttons...
-  const totalMovies = movieData.length;  
-  const totalPages = Math.ceil(totalMovies / DEFAULT_PAGE_SIZE);
+  // Create an array of the movies we actually want to show.
+  // console.log("movieData: ", movieData);
+  const moviesToDisplay = movieData.filter((movie) => {
+    if (filterTerm === 'default-newest') {
+      return movieData.sort((a, b) => b.orderWatched - a.orderWatched);
+    } else if (filterTerm === 'rating-asc') {
+      return movieData.sort((a, b) => b.myRating - a.myRating);
+    } else if (filterTerm === 'rating-desc') {
+      return movieData.sort((a, b) => a.myRating - b.myRating);
+    }
+  }).filter(movie => movie.movieTitle.toLowerCase().includes(searchTerm.toLowerCase()));
+  // SEARCH AND FILTER END
+
+  // PAGINATION START
+  // Initial values
+  // const DEFAULT_PAGE = 1;  
+  // const DEFAULT_PAGE_SIZE = 5;
+  // const DEFAULT_ARRAY = moviesToDisplay.slice((DEFAULT_PAGE-1) * DEFAULT_PAGE_SIZE, (DEFAULT_PAGE-1) * DEFAULT_PAGE_SIZE + DEFAULT_PAGE_SIZE);
+
+  // const [currentPage, setCurrentPage] = useState(DEFAULT_PAGE);
+  // const [movieArray, setMovieArray] = useState(DEFAULT_ARRAY);
+  // let paginatedArray = [];
+
+  // // Called when the Pagination buttons are clicked.
+  // const handlePageChange = (value) => {
+  //   // Set the pagination button to the value clicked.
+  //   setCurrentPage(value);
+  //   console.log("Set currentPage To: ", value);
+
+  //   // Paginate the array based on the page number we start with 1
+  //   paginatedArray = moviesToDisplay.slice((value-1) * DEFAULT_PAGE_SIZE, (value-1) * DEFAULT_PAGE_SIZE + DEFAULT_PAGE_SIZE);
+  //   // console.log("Set paginatedArray: ", paginatedArray);
+  //   setMovieArray(paginatedArray);
+  // };
+
+  // // Every time one of the pagination buttons is clicked it rerenders the page which calls this.
+  // useEffect(() => {
+  //   // This is just to rerender the page if the Pagination button is clicked.
+  // }, [currentPage]);
+
+  // // for the pagination buttons...
+  // const totalMovies = moviesToDisplay.length;  
+  // const totalPages = Math.ceil(totalMovies / DEFAULT_PAGE_SIZE);
   // PAGINATION START
 
   return (
@@ -60,20 +94,12 @@ function App() {
         <p>
           Just a website where I post my dumb movie reviews
         </p>
-        {/* <div class="searchbar-sort-container">
+        <div class="searchbar-sort-container">
           <div class="searchbar-container">
-            <label for="search">Search:</label>
-            <input type="text" id="search" name="search" placeholder="Search movie titles..."/>
+            <SearchBar searchTerm={searchTerm} handleSearch={handleSearch}/>
           </div>
-          <div class="sort-dropdown-container">
-            <label for="sort-by">Sort by:</label>
-            <select id="sort-by" name="sort-by">
-                <option value="default-newest">Newest Review</option>
-                <option value="rating-asc">Rating high to Low</option>
-                <option value="rating-desc">Rating low to High</option>
-            </select>
-          </div>
-        </div> */}
+          <SearchFilter handleFilter={handleFilter}/>
+        </div>
       </header>
 
       <div className='ThemeButtonDiv'>
@@ -82,11 +108,11 @@ function App() {
         <button className= "ThemeButtons" onClick={() => handleThemeChange('blockbuster')}>B</button>
       </div>
 
-      {movieArray.map((movie, index) => (
-        <MovieListItem key={index} movie={movie} movieArray={movieArray}/>
+      {moviesToDisplay.map((movie, index) => (
+        <MovieListItem key={index} movie={movie} movieArray={moviesToDisplay}/>
       ))}
 
-      <CustomPagination page={currentPage}  totalPages={totalPages}  onChange={handlePageChange}/>
+      {/* <CustomPagination page={currentPage}  totalPages={totalPages}  onChange={handlePageChange}/> */}
 
     </div>
 

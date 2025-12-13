@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import testMovieData from './apiTest.json';
+import testMovieData from './imbdDataOutput.json';
 
 function MovieListItem({movie, movieArray}) {
 
@@ -10,7 +10,7 @@ function MovieListItem({movie, movieArray}) {
   // make requests to get movie data in this format 1000 a day
   // https://www.omdbapi.com/?apikey=****&t=superman&y=2025
   const apiKey = process.env.REACT_APP_API_KEY;
-  const isLocal = false; // for testing purposes only
+  const isLocal = true; // for testing purposes only
   let url = "https://www.omdbapi.com/?apikey=" + apiKey + "&t=" + movie.movieTitle + "&y=" + movie.movieYear
   
   useEffect(() => {
@@ -25,6 +25,14 @@ function MovieListItem({movie, movieArray}) {
           // local testing data only works for first page
           let localData = testMovieData.find(item => item.Title == movie.movieTitle && item.Year == movie.movieYear);
           setData(localData);
+
+          // if (typeof localData === 'undefined') {
+          //   console.log("Finding local data for: ", movie.movieTitle, " ", movie.movieYear);
+          // }
+
+          // console.log("Finding local data for: ", movie.movieTitle, " ", movie.movieYear);
+          // console.log("Found local data: ", localData);
+          // console.log(localData.Poster);
         }
       } catch (err) {
         setError(err.message);
