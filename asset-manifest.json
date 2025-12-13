@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MovieReviews/static/css/main.8f131162.css",
-    "main.js": "/MovieReviews/static/js/main.9c551df6.js",
-    "static/js/453.13c9f333.chunk.js": "/MovieReviews/static/js/453.13c9f333.chunk.js",
+    "main.css": "/MovieReviews/static/css/main.c3275a92.css",
+    "main.js": "/MovieReviews/static/js/main.10668801.js",
+    "static/js/453.82c9a1d2.chunk.js": "/MovieReviews/static/js/453.82c9a1d2.chunk.js",
     "static/media/logo.svg": "/MovieReviews/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/MovieReviews/index.html",
-    "main.8f131162.css.map": "/MovieReviews/static/css/main.8f131162.css.map",
-    "main.9c551df6.js.map": "/MovieReviews/static/js/main.9c551df6.js.map",
-    "453.13c9f333.chunk.js.map": "/MovieReviews/static/js/453.13c9f333.chunk.js.map"
+    "main.c3275a92.css.map": "/MovieReviews/static/css/main.c3275a92.css.map",
+    "main.10668801.js.map": "/MovieReviews/static/js/main.10668801.js.map",
+    "453.82c9a1d2.chunk.js.map": "/MovieReviews/static/js/453.82c9a1d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f131162.css",
-    "static/js/main.9c551df6.js"
+    "static/css/main.c3275a92.css",
+    "static/js/main.10668801.js"
   ]
 }
