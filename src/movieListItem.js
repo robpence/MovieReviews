@@ -30,9 +30,9 @@ function MovieListItem({movie, movieArray}) {
           //   console.log("Finding local data for: ", movie.movieTitle, " ", movie.movieYear);
           // }
 
-          // console.log("Finding local data for: ", movie.movieTitle, " ", movie.movieYear);
+          console.log("Finding local data for: ", movie.movieTitle, " ", movie.movieYear);
           // console.log("Found local data: ", localData);
-          // console.log(localData.Poster);
+          console.log(localData.Poster);
         }
       } catch (err) {
         setError(err.message);

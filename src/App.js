@@ -1,15 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
 // import data from './movieDataLarge.json'
-import data from './data/movieDataLarge.json'
+// import data from './data/movieDataLarge.json'
 import MovieListItem from './movieListItem';
-import CustomPagination from './CustomPagination.js';
+// import CustomPagination from './CustomPagination.js';
 import SearchBar from './SearchBar.js';
 import SearchFilter from './SearchFilter.js';
 import React, { useState, useEffect } from 'react';
-import { wait } from '@testing-library/user-event/dist/utils/index.js';
-import data2025 from './data/2025TestData.json'
-import data2026 from './data/2026TestData.json'
+import data2025 from './data/2025SheetsData.json'
+import data2026 from './data/2026SheetsData.json'
+import allData from './data/AllSheetsData.json'
 
 function App() {
 
@@ -57,7 +57,7 @@ function App() {
       setMovieData(data2025.movieData);
       resetSearchAndFilter();
     } else if (tabName === 'All Movies') {
-      setMovieData(data.movieData);
+      setMovieData(allData.movieData);
       resetSearchAndFilter();
     }else if (tabName === 'TV Shows') {
       // TODO
