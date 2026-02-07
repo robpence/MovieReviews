@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import testMovieData from './imbdDataOutput.json';
+import testMovieData from './data/imbdDataOutput.json';
 
 function MovieListItem({movie, movieArray}) {
 
@@ -56,15 +56,16 @@ function MovieListItem({movie, movieArray}) {
             <div class="MovieTitle">{data.Title}</div>
             <div class="MovieMetadata">{data.Year}&nbsp;&nbsp;&nbsp;&nbsp;{data.Runtime}&nbsp;&nbsp;&nbsp;&nbsp;{data.Rated}</div>
             <div class="MovieRating"><span class="fa fa-star checked"></span> {movie.myRating}</div>
+            <div class="MovieDescription">{data.Plot}</div>
           </div>
           <div class="MovieInfo">
-            <i title={data.Plot} class="fas fa-info-circle"></i>
+            <a href={`https://www.imdb.com/title/${data.imdbID}`} target="_blank"><i class="fas fa-info-circle"></i></a>
           </div>
         </div>
-        <div class="MovieDescription">
-          <p>
-            {movie.movieComments}
-          </p>
+        <hr></hr>
+        <div class="MovieReview">
+          <p>Review:</p>
+          <p>{movie.movieComments}</p>
         </div>
       </div>
   );

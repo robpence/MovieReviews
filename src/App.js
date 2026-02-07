@@ -1,18 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
 // import data from './movieDataLarge.json'
-import data from './movieDataLarge.json'
+import data from './data/movieDataLarge.json'
 import MovieListItem from './movieListItem';
 import CustomPagination from './CustomPagination.js';
 import SearchBar from './SearchBar.js';
 import SearchFilter from './SearchFilter.js';
 import React, { useState, useEffect } from 'react';
 import { wait } from '@testing-library/user-event/dist/utils/index.js';
+import data2025 from './data/2025TestData.json'
+import data2026 from './data/2026TestData.json'
 
 function App() {
 
   // Initialize movie data from the JSON file
-  const movieData = data.movieData;
+  // const movieData = data.movieData;
   // const movieDataCopy = structuredClone(movieData);
 
   // THEME SWITCHER START
@@ -31,15 +33,38 @@ function App() {
   // SEARCH AND FILTER START
   const [searchTerm, setSearchTerm] = useState('');
   const [filterTerm, setFilterTerm] = useState('default-newest');
+  const [tab, setTab] = useState('2026');
+  const [movieData, setMovieData] = useState(data2026.movieData);
 
   const handleFilter = (event) => {
     setFilterTerm(event.target.value);
-    // console.log("filterTerm: ", filterTerm);
   };
 
   const handleSearch = (searchTerm) => {
     setSearchTerm(searchTerm);
-    // console.log("Searchterm: ", searchTerm);
+  };
+
+  const resetSearchAndFilter = () => {
+    setSearchTerm('');
+    setFilterTerm('default-newest');
+  }
+
+  const openTab = (tabName) => {
+    if (tabName === '2026') {
+      setMovieData(data2026.movieData);
+      resetSearchAndFilter();
+    } else if (tabName === '2025') {
+      setMovieData(data2025.movieData);
+      resetSearchAndFilter();
+    } else if (tabName === 'All Movies') {
+      setMovieData(data.movieData);
+      resetSearchAndFilter();
+    }else if (tabName === 'TV Shows') {
+      // TODO
+    } else if (tabName === 'Books') {
+      // TODO
+    }
+    setTab(tabName);
   };
 
   // Create an array of the movies we actually want to show.
@@ -94,12 +119,6 @@ function App() {
         <p>
           Just a website where I post my dumb movie reviews
         </p>
-        <div class="searchbar-sort-container">
-          <div class="searchbar-container">
-            <SearchBar searchTerm={searchTerm} handleSearch={handleSearch}/>
-          </div>
-          <SearchFilter handleFilter={handleFilter}/>
-        </div>
       </header>
 
       <div className='ThemeButtonDiv'>
@@ -108,6 +127,22 @@ function App() {
         <button className= "ThemeButtons" onClick={() => handleThemeChange('blockbuster')}>B</button>
       </div>
 
+      <div class="tab">
+        <button class="tablinks" onClick={() => openTab('2026')}>2026 Movies</button>
+        <button class="tablinks" onClick={() => openTab('2025')}>2025 Movies</button>
+        <button class="tablinks" onClick={() => openTab('All Movies')}>All Movies</button>
+        <button class="tablinks" onClick={() => openTab('TV Shows')}>TV Shows (WIP)</button>
+        <button class="tablinks" onClick={() => openTab('Books')}>Books (WIP)</button>
+      </div>
+
+      <div class="searchbar-sort-container">
+          <div class="searchbar-container">
+            <SearchBar searchTerm={searchTerm} handleSearch={handleSearch}/>
+          </div>
+          <SearchFilter handleFilter={handleFilter} filterTerm={filterTerm}/>
+      </div>
+
+      {/* TODO Need to change the data given to the display based on the tab selected.*/}
       {moviesToDisplay.map((movie, index) => (
         <MovieListItem key={index} movie={movie} movieArray={moviesToDisplay}/>
       ))}
