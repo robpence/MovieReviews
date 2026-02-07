@@ -1,0 +1,154 @@
+{
+  "movieData": [{
+        "movieTitle": "Crazy, Stupid, Love.",
+        "movieYear": 2011,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-04T08:00:00.000Z",
+        "movieComments": "I'm shocked I havnt seen this movie until now. Good rom com. I'd rate this a 7 but steve carrel makes it a 8.",
+        "orderWatched": 1
+    },
+    {
+        "movieTitle": "The Prince and Me",
+        "movieYear": 2004,
+        "myRating": 5,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-05T08:00:00.000Z",
+        "movieComments": "They made a sequel to this movie in 2022 and they replaced the actress who played the main character Paige. This movie is actually not bad but It definitely wasnt good enough to make a sequel 18 years later....",
+        "orderWatched": 2
+    },
+    {
+        "movieTitle": "One Battle After Another",
+        "movieYear": 2025,
+        "myRating": 7.5,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-06T08:00:00.000Z",
+        "movieComments": "Great job by Leonardo playing a paranoid stoner. The movie is thrilling and politically relavant but I'm not sure why critics gave it a 95% on rotten tomatoes. ",
+        "orderWatched": 3
+    },
+    {
+        "movieTitle": "La La Land",
+        "movieYear": 2016,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-06T08:00:00.000Z",
+        "movieComments": "The modern day Singing in the Rain.",
+        "orderWatched": 4
+    },
+    {
+        "movieTitle": "The Space Between Us",
+        "movieYear": 2017,
+        "myRating": 6,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-07T08:00:00.000Z",
+        "movieComments": "I'm probably not the target demographic for this movie. Kind of cheesy. ",
+        "orderWatched": 5
+    },
+    {
+        "movieTitle": "When Harry Met Sally...",
+        "movieYear": 1989,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-09T08:00:00.000Z",
+        "movieComments": "I didnt realize how many things referenced this movie.",
+        "orderWatched": 6
+    },
+    {
+        "movieTitle": "The Nanny Diaries",
+        "movieYear": 2007,
+        "myRating": 6,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-10T08:00:00.000Z",
+        "movieComments": "Black widow and Captain America start dating while black widow is spying on some poor family and taking care of their kid in NYC. Kind of felt like devil wears prada.",
+        "orderWatched": 7
+    },
+    {
+        "movieTitle": "Wake Up Dead Man",
+        "movieYear": 2025,
+        "myRating": 7.5,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-12T08:00:00.000Z",
+        "movieComments": "It's as good as the other movies. The first one is the best. The second one is the worst and this one is in the middle I guess. I liked josh brolin and josh o connor. ",
+        "orderWatched": 8
+    },
+    {
+        "movieTitle": "Napoleon",
+        "movieYear": 2023,
+        "myRating": 6,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-13T08:00:00.000Z",
+        "movieComments": "I didn't like this movie. I did not think the actor who played napoleon was a good choice and it was kind of weird how the movie spans like 20 years and he doesnt age. Some of the actor scenes are pretty brutal.",
+        "orderWatched": 9
+    },
+    {
+        "movieTitle": "People We Meet on Vacation",
+        "movieYear": 2026,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-14T08:00:00.000Z",
+        "movieComments": "It's a good romcom that pretty much follows the format of when Harry met sally but modernized. It definitely has its moments, poppy seems a little unrealistic as a character but it's also possible I've just never met a women like her. plus 1 for using an Odessa song at the end when the credits roll. Great song choice. ",
+        "orderWatched": 11
+    },
+    {
+        "movieTitle": "Anyone But You",
+        "movieYear": 2023,
+        "myRating": 6,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-15T08:00:00.000Z",
+        "movieComments": "I dont know why I rewatched this, maybe I just want to go to australia? After watching it again I dont think its a very good movie.",
+        "orderWatched": 12
+    },
+    {
+        "movieTitle": "Rental Family",
+        "movieYear": 2025,
+        "myRating": 8.5,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-16T08:00:00.000Z",
+        "movieComments": "Probably the best thing i've watched all year. I really enjoyed just seeing the everyday aspects of living life in japan that you dont see through anime or other japanese movies. Breden Fraser did amazing.",
+        "orderWatched": 13
+    },
+    {
+        "movieTitle": "Bridge of Spies",
+        "movieYear": 2015,
+        "myRating": 8,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-17T08:00:00.000Z",
+        "movieComments": "This is a movie where basically nothing happens but people talking to each other and somehow its exciting.",
+        "orderWatched": 14
+    },
+    {
+        "movieTitle": "A League of Their Own",
+        "movieYear": 1992,
+        "myRating": 7,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-18T08:00:00.000Z",
+        "movieComments": "The historical aspect is cool, and it is probably one of the better baseball movies, but it was kind of boring. Tom hanks did a good job though.",
+        "orderWatched": 15
+    },
+    {
+        "movieTitle": "Splash",
+        "movieYear": 1984,
+        "myRating": 7.5,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-19T08:00:00.000Z",
+        "movieComments": "I only watched this because I was trying to watch a bunch of movies with Tom Hanks in them. While this movie was pretty dumb I do have to say it's probably the best mermaid movie made and it's pretty funny.",
+        "orderWatched": 16
+    },
+    {
+        "movieTitle": "I Could Never Be Your Woman",
+        "movieYear": 2007,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-01-28T08:00:00.000Z",
+        "movieComments": "Youtube has a lot of these DVD rom coms on their movie section and most of them aren't great. Paul Rudd is in this and I feel like they just had him show up and told him to improv everything. It's otherwise a forgettable movie.",
+        "orderWatched": 17
+    },
+    {
+        "movieTitle": "The Housemaid",
+        "movieYear": 2025,
+        "myRating": 7.5,
+        "theaterOrHome": "Home",
+        "dateWatched": "2026-02-04T08:00:00.000Z",
+        "movieComments": "I'm not sure how I feel about sydney sweeney as an actress she kind of reminds me of kristen stewart. She has a very monotone voice. The movies plot and twist was good. Definitely different than the nanny diaries. The ending definitely dragged on (spoilers) but it could've just ended with andrew getting locked in the room. Everything after that was pretty much just filler except the last 2-3lines of the movie before the credits which was great.",
+        "orderWatched": 18
+    }
+]}
