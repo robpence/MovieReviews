@@ -84,7 +84,7 @@
   border-style: solid;
   border-width: 2px;
   background-color: #14181c;
-  margin-top: 5px;
+  margin-top: 20px;
 }
 
 .MovieListBox {
@@ -138,6 +138,7 @@
   text-align: left;
   text-wrap: auto;
   margin-top: 10px;
+  font-size: small;
 }
 
 .MovieReview {

@@ -64,7 +64,6 @@ function MovieListItem({movie, movieArray}) {
         </div>
         <hr></hr>
         <div class="MovieReview">
-          <p>Review:</p>
           <p>{movie.movieComments}</p>
         </div>
       </div>
