@@ -10,6 +10,8 @@ import React, { useState, useEffect } from 'react';
 import data2025 from './data/2025SheetsData.json'
 import data2026 from './data/2026SheetsData.json'
 import allData from './data/AllSheetsData.json'
+import tvShowData from './data/tvShowData.json'
+import bookData from './data/bookData.json'
 
 function App() {
 
@@ -60,9 +62,11 @@ function App() {
       setMovieData(allData.movieData);
       resetSearchAndFilter();
     }else if (tabName === 'TV Shows') {
-      // TODO
+      setMovieData(tvShowData.movieData);
+      resetSearchAndFilter();
     } else if (tabName === 'Books') {
-      // TODO
+      setMovieData(bookData.movieData);
+      resetSearchAndFilter();
     }
     setTab(tabName);
   };
