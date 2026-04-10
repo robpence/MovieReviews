@@ -1103,6 +1103,222 @@
         "dateWatched": "2026-02-04T08:00:00.000Z",
         "movieComments": "I'm not sure how I feel about sydney sweeney as an actress she kind of reminds me of kristen stewart. She has a very monotone voice. The movies plot and twist was good. Definitely different than the nanny diaries. The ending definitely dragged on (spoilers) but it could've just ended with andrew getting locked in the room. Everything after that was pretty much just filler except the last 2-3lines of the movie before the credits which was great.",
         "orderWatched": 136
+    },
+    {
+        "movieTitle": "Aloha",
+        "movieYear": 2015,
+        "myRating": 6,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-02-12T08:00:00.000Z",
+        "movieComments": "Jim from the office is buff and doesnt talk. Emma stone is a little crazy. Not much else going on in this movie.",
+        "orderWatched": 16
+    },
+    {
+        "movieTitle": "The Eagle",
+        "movieYear": 2011,
+        "myRating": 4,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-02-13T08:00:00.000Z",
+        "movieComments": "I just couldn't take channing tatum seriously in this movie. Also the plot is dumb there is 0 chance this is based on a true story.",
+        "orderWatched": 16
+    },
+    {
+        "movieTitle": "American Ultra",
+        "movieYear": 2015,
+        "myRating": 8,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-02-14T08:00:00.000Z",
+        "movieComments": "Very fun action movie. I think Kristen Stewart smiles in this movie at least once. Spoilers but this movie has the most romatic proposal scene ever.",
+        "orderWatched": 17
+    },
+    {
+        "movieTitle": "Bugonia",
+        "movieYear": 2025,
+        "myRating": 7.5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-02-16T08:00:00.000Z",
+        "movieComments": "Umm what?",
+        "orderWatched": 18
+    },
+    {
+        "movieTitle": "Frankenstein",
+        "movieYear": 2025,
+        "myRating": 7.5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-02-22T08:00:00.000Z",
+        "movieComments": "I'm not sure this should be nominated for a best picture oscar. The movie kind of drags on in places and while the entire movie is based on a some weird biological psuedo science it forgets how basic physics works which kind of ruined my suspenion of disbelief. The monster can move a ship without falling through ice, a tnt explosion doesnt blast the monsters limbs off even though there just humans limbs, Victor sets fire to a stone castle, etc. The actor who played the monster Jacob Elordi did great though. ",
+        "orderWatched": 19
+    },
+    {
+        "movieTitle": "Trap House",
+        "movieYear": 2025,
+        "myRating": 7,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-01T08:00:00.000Z",
+        "movieComments": "I probably would've liked this movie more if I was still in highschool. It's objectively bad but its fun and I liked it more than I thought I would. +1 for the bad fornite references.",
+        "orderWatched": 20
+    },
+    {
+        "movieTitle": "Train Dreams",
+        "movieYear": 2025,
+        "myRating": 8,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-02T08:00:00.000Z",
+        "movieComments": "Felt like a Terrance Malik movie. I really liked the characters in the first half, felt like I was doing side quests in red dead redemption 2. Loved the voice of the narrator. I understand why this got nominated for best picture and while I don't think it'll win I'm secretly rooting for it. This movie had many layers",
+        "orderWatched": 21
+    },
+    {
+        "movieTitle": "Marty Supreme",
+        "movieYear": 2025,
+        "myRating": 7.5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-03T08:00:00.000Z",
+        "movieComments": "That first 5 minutes was a great bio lesson... I thought all the actors did amazing. My main issue with this movie is that it's a 2.5hr long movie that kind of feels like 5hrs. ",
+        "orderWatched": 22
+    },
+    {
+        "movieTitle": "Hamnet",
+        "movieYear": 2025,
+        "myRating": 5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-04T08:00:00.000Z",
+        "movieComments": "Yeah this one ain't for me. I couldnt get into it and frankly the only part of the movie I liked is when they performed part of the play Hamlet at the end. I hope this doesnt win best picture as there are other movies that way more entertaining. Also I had a college professor that told us shakespierre was probably gay which would explain why he was never with his wife...",
+        "orderWatched": 23
+    },
+    {
+        "movieTitle": "Nuremberg",
+        "movieYear": 2025,
+        "myRating": 7,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-08T08:00:00.000Z",
+        "movieComments": "I'm not sure how they casted a fat Russel Crowe as the main German guy… he doesn't sound very German but what do I know. It's a decent history movie.",
+        "orderWatched": 24
+    },
+    {
+        "movieTitle": "BlacKkKlansman",
+        "movieYear": 2018,
+        "myRating": 7.5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-10T07:00:00.000Z",
+        "movieComments": "its a pretty good movie",
+        "orderWatched": 25
+    },
+    {
+        "movieTitle": "Good Luck, Have Fun, Don't Die",
+        "movieYear": 2025,
+        "myRating": 7.5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-17T07:00:00.000Z",
+        "movieComments": "I give it points for originality. It felt like watching a Black Mirror episode about AI in a good way.",
+        "orderWatched": 26
+    },
+    {
+        "movieTitle": "Is This Thing On?",
+        "movieYear": 2025,
+        "myRating": 5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-23T07:00:00.000Z",
+        "movieComments": "So boring",
+        "orderWatched": 27
+    },
+    {
+        "movieTitle": "Jules",
+        "movieYear": 2023,
+        "myRating": 6,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-24T07:00:00.000Z",
+        "movieComments": "If I was old I would probably like this",
+        "orderWatched": 28
+    },
+    {
+        "movieTitle": "The Wind Rises",
+        "movieYear": 2013,
+        "myRating": 7,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-25T07:00:00.000Z",
+        "movieComments": "It's not a bad movie but it's so different than the other Miyazaki movies that I didn't really like it",
+        "orderWatched": 29
+    },
+    {
+        "movieTitle": "Morning Glory",
+        "movieYear": 2010,
+        "myRating": 7.5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-26T07:00:00.000Z",
+        "movieComments": "I need to watch more Harrison ford moves apparently.",
+        "orderWatched": 30
+    },
+    {
+        "movieTitle": "Non-Stop",
+        "movieYear": 2014,
+        "myRating": 6,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-27T07:00:00.000Z",
+        "movieComments": "Almost good? More psychological than action packed.",
+        "orderWatched": 31
+    },
+    {
+        "movieTitle": "Princess Mononoke",
+        "movieYear": 1997,
+        "myRating": 7.5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-28T07:00:00.000Z",
+        "movieComments": "One of the better miyazaki movies. Still holds up well.",
+        "orderWatched": 32
+    },
+    {
+        "movieTitle": "Kiki's Delivery Service",
+        "movieYear": 1989,
+        "myRating": 6,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-29T07:00:00.000Z",
+        "movieComments": "Its just a cozy movie about a young witch. I couldn't relate in any way but the animation is really good so theres that.",
+        "orderWatched": 33
+    },
+    {
+        "movieTitle": "The Host",
+        "movieYear": 2013,
+        "myRating": 7.5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-30T07:00:00.000Z",
+        "movieComments": "I'm surprised I've never watched or heard of this movie before. It was pretty good even though most of it took place in a cave.",
+        "orderWatched": 34
+    },
+    {
+        "movieTitle": "Anaconda",
+        "movieYear": 2025,
+        "myRating": 5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-03-31T07:00:00.000Z",
+        "movieComments": "Even Jack Black couldn't save this movie.",
+        "orderWatched": 35
+    },
+    {
+        "movieTitle": "Crime 101",
+        "movieYear": 2026,
+        "myRating": 6,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-04-05T07:00:00.000Z",
+        "movieComments": "Thor and Bruce Banner couldn't save this generic heist movie.",
+        "orderWatched": 36
+    },
+    {
+        "movieTitle": "The Island",
+        "movieYear": 2005,
+        "myRating": 8,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-04-06T07:00:00.000Z",
+        "movieComments": "I found this on youtube. It holds up surprisingly well. Has an interesting plot, good action scenes, etc. Also some of the dialogue near the end of the movie was pretty funny.",
+        "orderWatched": 37
+    },
+    {
+        "movieTitle": "Swordfish",
+        "movieYear": 2001,
+        "myRating": 7.5,
+        "theaterorhome": "Home",
+        "dateWatched": "2026-04-07T07:00:00.000Z",
+        "movieComments": "Great opening scene and this movie has some very memorable and funny scenes but they were not good enough to save it from it's ending. Plus one for Halle Berry though.",
+        "orderWatched": 38
     }
 ]
 }

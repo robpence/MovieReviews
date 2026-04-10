@@ -4515,42 +4515,48 @@
     "Website": "N/A",
     "Response": "True"
   },
-    {
-    "Title": "The Prince and Me",
-    "Year": "2004",
-    "Rated": "PG",
-    "Released": "02 Apr 2004",
-    "Runtime": "111 min",
-    "Genre": "Comedy, Family, Romance",
-    "Director": "Martha Coolidge",
-    "Writer": "Mark Amin, Katherine Fugate, Jack Amiel",
-    "Actors": "Julia Stiles, Luke Mably, Miranda Richardson",
-    "Plot": "At college Paige meets Eddie, a student from Denmark, whom she first dislikes but later accepts, likes, and loves; he proves to be Crown Prince Edvard. Paige follows him to Copenhagen, and he follows her back to school with a plan.",
-    "Language": "English, Danish, German",
-    "Country": "United States, Czech Republic",
-    "Awards": "1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ4YTlkMTctNGQyYi00ZDYyLTg4MzItMmQ0MzJhYWQ3MTk2XkEyXkFqcGc@._V1_SX300.jpg",
+  
+
+
+
+
+
+  {
+    "Title": "The Space Between Us",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "03 Feb 2017",
+    "Runtime": "120 min",
+    "Genre": "Drama, Romance, Sci-Fi",
+    "Director": "Peter Chelsom",
+    "Writer": "Allan Loeb, Stewart Schill, Richard Barton Lewis",
+    "Actors": "Gary Oldman, Asa Butterfield, Carla Gugino",
+    "Plot": "The first human born on Mars travels to Earth for the first time, experiencing the wonders of the planet through fresh eyes. He embarks on an adventure with a street-smart girl to discover how he came to be.",
+    "Language": "English",
+    "Country": "United States, China",
+    "Awards": "4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjYzODU1OTkwN15BMl5BanBnXkFtZTgwMDA3MTMwMDI@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "5.9/10"
+        "Value": "6.4/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "28%"
+        "Value": "17%"
       },
       {
         "Source": "Metacritic",
-        "Value": "47/100"
+        "Value": "33/100"
       }
     ],
-    "Metascore": "47",
-    "imdbRating": "5.9",
-    "imdbVotes": "42,698",
-    "imdbID": "tt0337697",
+    "Metascore": "33",
+    "imdbRating": "6.4",
+    "imdbVotes": "57,962",
+    "imdbID": "tt3922818",
     "Type": "movie",
     "DVD": "N/A",
-    "BoxOffice": "$28,176,497",
+    "BoxOffice": "$7,885,294",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
@@ -4596,6 +4602,193 @@
     "Response": "True"
   },
   {
+    "Title": "The Prince and Me",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "02 Apr 2004",
+    "Runtime": "111 min",
+    "Genre": "Comedy, Family, Romance",
+    "Director": "Martha Coolidge",
+    "Writer": "Mark Amin, Katherine Fugate, Jack Amiel",
+    "Actors": "Julia Stiles, Luke Mably, Miranda Richardson",
+    "Plot": "At college Paige meets Eddie, a student from Denmark, whom she first dislikes but later accepts, likes, and loves; he proves to be Crown Prince Edvard. Paige follows him to Copenhagen, and he follows her back to school with a plan.",
+    "Language": "English, Danish, German",
+    "Country": "United States, Czech Republic",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ4YTlkMTctNGQyYi00ZDYyLTg4MzItMmQ0MzJhYWQ3MTk2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "28%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "47/100"
+      }
+    ],
+    "Metascore": "47",
+    "imdbRating": "5.9",
+    "imdbVotes": "42,698",
+    "imdbID": "tt0337697",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$28,176,497",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "One Battle After Another",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "26 Sep 2025",
+    "Runtime": "161 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Paul Thomas Anderson",
+    "Writer": "Paul Thomas Anderson, Thomas Pynchon",
+    "Actors": "Leonardo DiCaprio, Sean Penn, Benicio Del Toro",
+    "Plot": "When their enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 13 Oscars. 234 wins & 478 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "95/100"
+      }
+    ],
+    "Metascore": "95",
+    "imdbRating": "7.7",
+    "imdbVotes": "329,147",
+    "imdbID": "tt30144839",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$72,172,051",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "A League of Their Own",
+    "Year": "1992",
+    "Rated": "PG",
+    "Released": "01 Jul 1992",
+    "Runtime": "128 min",
+    "Genre": "Comedy, Drama, Sport",
+    "Director": "Penny Marshall",
+    "Writer": "Kim Wilson, Kelly Candaele, Lowell Ganz",
+    "Actors": "Tom Hanks, Geena Davis, Lori Petty",
+    "Plot": "During World War II, sisters Dottie and Kit join the first female professional baseball league and struggle to help it succeed amid their own growing rivalry.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 13 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDgwZDJjNWQtMzBmNi00ZTNkLTk5NGQtMzE2ODJkZjUyYjRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "82%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.4",
+    "imdbVotes": "129,657",
+    "imdbID": "tt0104694",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$107,533,928",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Bridge of Spies",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "16 Oct 2015",
+    "Runtime": "142 min",
+    "Genre": "Drama, History, Thriller",
+    "Director": "Steven Spielberg",
+    "Writer": "Matt Charman, Ethan Coen, Joel Coen",
+    "Actors": "Tom Hanks, Mark Rylance, Alan Alda",
+    "Plot": "During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.",
+    "Language": "English, German, Russian",
+    "Country": "United States, India, Germany",
+    "Awards": "Won 1 Oscar. 30 wins & 105 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "81/100"
+      }
+    ],
+    "Metascore": "81",
+    "imdbRating": "7.6",
+    "imdbVotes": "343,045",
+    "imdbID": "tt3682448",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$72,313,754",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "People We Meet on Vacation",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "06 Jan 2026",
+    "Runtime": "N/A",
+    "Genre": "Romance",
+    "Director": "Brett Haley",
+    "Writer": "Emily Henry, Yulin Kuang",
+    "Actors": "Lukas Gage, Sarah Catherine Hook, Tom Blyth",
+    "Plot": "Poppy wants to explore the world and Alex prefers to stay home with a good book, but somehow they are the very best of friends. They live far apart, but for a decade they have spent one week of summer vacation together.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmNiY2Y0NmQtNDg4ZS00MTBiLTg4YjItOTgxYzI3ZjIwM2FlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt22740896",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
     "Title": "La La Land",
     "Year": "2016",
     "Rated": "PG-13",
@@ -4626,7 +4819,7 @@
     ],
     "Metascore": "94",
     "imdbRating": "8.0",
-    "imdbVotes": "745,935",
+    "imdbVotes": "751,618",
     "imdbID": "tt3783958",
     "Type": "movie",
     "DVD": "N/A",
@@ -4636,41 +4829,41 @@
     "Response": "True"
   },
   {
-    "Title": "A League of Their Own",
-    "Year": "1992",
-    "Rated": "PG",
-    "Released": "01 Jul 1992",
-    "Runtime": "128 min",
-    "Genre": "Comedy, Drama, Sport",
-    "Director": "Penny Marshall",
-    "Writer": "Kim Wilson, Kelly Candaele, Lowell Ganz",
-    "Actors": "Tom Hanks, Geena Davis, Lori Petty",
-    "Plot": "During World War II, sisters Dottie and Kit join the first female professional baseball league and struggle to help it succeed amid their own growing rivalry.",
+    "Title": "When Harry Met Sally...",
+    "Year": "1989",
+    "Rated": "R",
+    "Released": "21 Jul 1989",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Rob Reiner",
+    "Writer": "Nora Ephron",
+    "Actors": "Billy Crystal, Meg Ryan, Carrie Fisher",
+    "Plot": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
     "Language": "English",
     "Country": "United States",
-    "Awards": "6 wins & 13 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDgwZDJjNWQtMzBmNi00ZTNkLTk5NGQtMzE2ODJkZjUyYjRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Awards": "Nominated for 1 Oscar. 6 wins & 19 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.4/10"
+        "Value": "7.7/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "82%"
+        "Value": "88%"
       },
       {
         "Source": "Metacritic",
-        "Value": "69/100"
+        "Value": "76/100"
       }
     ],
-    "Metascore": "69",
-    "imdbRating": "7.4",
-    "imdbVotes": "127,346",
-    "imdbID": "tt0104694",
+    "Metascore": "76",
+    "imdbRating": "7.7",
+    "imdbVotes": "269,982",
+    "imdbID": "tt0098635",
     "Type": "movie",
     "DVD": "N/A",
-    "BoxOffice": "$107,533,928",
+    "BoxOffice": "$93,117,425",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
@@ -4707,314 +4900,6 @@
     "Type": "movie",
     "DVD": "28 Sep 2007",
     "BoxOffice": "$25,930,652",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "Wake Up Dead Man",
-    "Year": "2025",
-    "Rated": "PG-13",
-    "Released": "12 Dec 2025",
-    "Runtime": "144 min",
-    "Genre": "Comedy, Crime, Drama",
-    "Director": "Rian Johnson",
-    "Writer": "Rian Johnson",
-    "Actors": "Daniel Craig, Josh O'Connor, Glenn Close",
-    "Plot": "Benoit Blanc returns for his most dangerous case yet.",
-    "Language": "English",
-    "Country": "United States",
-    "Awards": "4 wins & 30 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q0OTA5MTEtNWU4NC00ZWFmLTg5NmYtNDFmODViYWUxZmJkXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.4/10"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "80/100"
-      }
-    ],
-    "Metascore": "80",
-    "imdbRating": "7.4",
-    "imdbVotes": "102,116",
-    "imdbID": "tt14364480",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$1,600,000",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "When Harry Met Sally...",
-    "Year": "1989",
-    "Rated": "R",
-    "Released": "21 Jul 1989",
-    "Runtime": "95 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Rob Reiner",
-    "Writer": "Nora Ephron",
-    "Actors": "Billy Crystal, Meg Ryan, Carrie Fisher",
-    "Plot": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
-    "Language": "English",
-    "Country": "United States",
-    "Awards": "Nominated for 1 Oscar. 6 wins & 19 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.7/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "88%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "76/100"
-      }
-    ],
-    "Metascore": "76",
-    "imdbRating": "7.7",
-    "imdbVotes": "266,489",
-    "imdbID": "tt0098635",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$93,117,425",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "The Space Between Us",
-    "Year": "2017",
-    "Rated": "PG-13",
-    "Released": "03 Feb 2017",
-    "Runtime": "120 min",
-    "Genre": "Drama, Romance, Sci-Fi",
-    "Director": "Peter Chelsom",
-    "Writer": "Allan Loeb, Stewart Schill, Richard Barton Lewis",
-    "Actors": "Gary Oldman, Asa Butterfield, Carla Gugino",
-    "Plot": "The first human born on Mars travels to Earth for the first time, experiencing the wonders of the planet through fresh eyes. He embarks on an adventure with a street-smart girl to discover how he came to be.",
-    "Language": "English",
-    "Country": "United States, China",
-    "Awards": "4 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjYzODU1OTkwN15BMl5BanBnXkFtZTgwMDA3MTMwMDI@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.4/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "17%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "33/100"
-      }
-    ],
-    "Metascore": "33",
-    "imdbRating": "6.4",
-    "imdbVotes": "57,962",
-    "imdbID": "tt3922818",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$7,885,294",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "Rental Family",
-    "Year": "2025",
-    "Rated": "PG-13",
-    "Released": "21 Nov 2025",
-    "Runtime": "110 min",
-    "Genre": "Comedy, Drama",
-    "Director": "Hikari",
-    "Writer": "Hikari, Stephen Blahut",
-    "Actors": "Brendan Fraser, Takehiro Hira, Mari Yamamoto",
-    "Plot": "An American actor in Tokyo struggling to find purpose lands an unusual gig: working for a Japanese \"rental family\" agency, playing stand-in roles for strangers. He rediscovers purpose, belonging, and the beauty of human connection.",
-    "Language": "English, Japanese",
-    "Country": "Japan, United States",
-    "Awards": "8 wins & 20 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzFiNTViOTQtOTUxNi00ODczLWI0MTgtNDE1ZWU5YmIzMjY2XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.9/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "87%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "67/100"
-      }
-    ],
-    "Metascore": "67",
-    "imdbRating": "7.9",
-    "imdbVotes": "6,430",
-    "imdbID": "tt14142060",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$10,047,429",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "One Battle After Another",
-    "Year": "2025",
-    "Rated": "R",
-    "Released": "26 Sep 2025",
-    "Runtime": "161 min",
-    "Genre": "Action, Crime, Drama",
-    "Director": "Paul Thomas Anderson",
-    "Writer": "Paul Thomas Anderson, Thomas Pynchon",
-    "Actors": "Leonardo DiCaprio, Sean Penn, Benicio Del Toro",
-    "Plot": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
-    "Language": "English, Spanish",
-    "Country": "United States",
-    "Awards": "131 wins & 255 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.9/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "95%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "95/100"
-      }
-    ],
-    "Metascore": "95",
-    "imdbRating": "7.9",
-    "imdbVotes": "218,376",
-    "imdbID": "tt30144839",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$71,468,736",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "I Could Never Be Your Woman",
-    "Year": "2007",
-    "Rated": "PG-13",
-    "Released": "11 May 2007",
-    "Runtime": "97 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Amy Heckerling",
-    "Writer": "Amy Heckerling",
-    "Actors": "Michelle Pfeiffer, Paul Rudd, Saoirse Ronan",
-    "Plot": "A mother falls for a younger man while her daughter falls in love for the first time. Mother Nature messes with their fates.",
-    "Language": "English",
-    "Country": "United States",
-    "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWE0MDZhNDUtYmJlNC00MjhmLTlhZjQtNTc2OTA4YjcwNDE0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "5.9/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "69%"
-      }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "5.9",
-    "imdbVotes": "20,568",
-    "imdbID": "tt0466839",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "Splash",
-    "Year": "1984",
-    "Rated": "PG",
-    "Released": "09 Mar 1984",
-    "Runtime": "111 min",
-    "Genre": "Comedy, Fantasy, Romance",
-    "Director": "Ron Howard",
-    "Writer": "Brian Grazer, Bruce Jay Friedman, Lowell Ganz",
-    "Actors": "Tom Hanks, Daryl Hannah, Eugene Levy",
-    "Plot": "A young man is reunited with a mermaid he briefly encountered as a boy and falls in love with her without knowing her secret.",
-    "Language": "English, Swedish",
-    "Country": "United States",
-    "Awards": "Nominated for 1 Oscar. 2 wins & 11 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGM2NDk4ZTgtYmVkZS00OTE4LTk2ZTAtYzc3Nzk4ZGU3NmE0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.3/10"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "71/100"
-      }
-    ],
-    "Metascore": "71",
-    "imdbRating": "6.3",
-    "imdbVotes": "86,831",
-    "imdbID": "tt0088161",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$69,821,334",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "Anyone But You",
-    "Year": "2023",
-    "Rated": "R",
-    "Released": "22 Dec 2023",
-    "Runtime": "103 min",
-    "Genre": "Comedy, Romance",
-    "Director": "Will Gluck",
-    "Writer": "Ilana Wolpert, Will Gluck",
-    "Actors": "Sydney Sweeney, Glen Powell, Alexandra Shipp",
-    "Plot": "After an amazing first date, Bea and Ben's fiery attraction turns ice-cold--until they find themselves unexpectedly reunited at a wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
-    "Language": "English",
-    "Country": "United States, Australia",
-    "Awards": "1 win & 5 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWUxYTFhMzItMmE0ZC00ODgzLTkwZWItOGUwMTI1YjQwMDJjXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.1/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "53%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "52/100"
-      }
-    ],
-    "Metascore": "52",
-    "imdbRating": "6.1",
-    "imdbVotes": "163,540",
-    "imdbID": "tt26047818",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$88,319,668",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
@@ -5060,24 +4945,440 @@
     "Response": "True"
   },
   {
+    "Title": "BlacKkKlansman",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "10 Aug 2018",
+    "Runtime": "135 min",
+    "Genre": "Biography, Comedy, Crime",
+    "Director": "Spike Lee",
+    "Writer": "Charlie Wachtel, David Rabinowitz, Kevin Willmott",
+    "Actors": "Alec Baldwin, John David Washington, Isiah Whitlock Jr.",
+    "Plot": "In this story inspired by true events, Ron Stallworth, an African-American Colorado police officer, successfully infiltrates the local branch of the Ku Klux Klan with the help of a white Jewish colleague.",
+    "Language": "English",
+    "Country": "United States, China",
+    "Awards": "Won 1 Oscar. 46 wins & 215 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.5",
+    "imdbVotes": "311,571",
+    "imdbID": "tt7349662",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$49,275,340",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Morning Glory",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "10 Nov 2010",
+    "Runtime": "107 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Roger Michell",
+    "Writer": "Aline Brosh McKenna",
+    "Actors": "Rachel McAdams, Harrison Ford, Diane Keaton",
+    "Plot": "An upstart television producer accepts the challenge of reviving a struggling morning show program with warring co-hosts.",
+    "Language": "English, Ukrainian, Spanish",
+    "Country": "United Kingdom, United States",
+    "Awards": "1 win & 3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ4NTdkZTAtNjk2Mi00NjkxLWI2ZjktYzNjMjViY2Q3ZDViXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "57%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "57/100"
+      }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.5",
+    "imdbVotes": "87,158",
+    "imdbID": "tt1126618",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$31,011,732",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Island",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "22 Jul 2005",
+    "Runtime": "136 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Michael Bay",
+    "Writer": "Caspian Tredwell-Owen, Alex Kurtzman, Roberto Orci",
+    "Actors": "Scarlett Johansson, Ewan McGregor, Djimon Hounsou",
+    "Plot": "In 2019, a mercenary pursues a man and woman who escaped a research facility after learning their true fate.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjk0NjM1ODReQTJeQWpwZ15BbWU3MDc1NjIxMzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "50/100"
+      }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.8",
+    "imdbVotes": "340,935",
+    "imdbID": "tt0399201",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$35,818,913",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Anaconda",
+    "Year": "2025",
+    "Rated": "PG-13",
+    "Released": "25 Dec 2025",
+    "Runtime": "99 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Tom Gormican",
+    "Writer": "Tom Gormican, Kevin Etten, Hans Bauer",
+    "Actors": "Jack Black, Paul Rudd, Steve Zahn",
+    "Plot": "A group of friends are going through a mid-life crisis. They decide to remake a favorite movie from their youth but encounter unexpected events when they enter the jungle.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNlMTk1YTItOWYxNi00ZWIzLTkyOWEtNTJmMzk4NmIyN2NmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Metascore": "43",
+    "imdbRating": "5.7",
+    "imdbVotes": "25,299",
+    "imdbID": "tt33244668",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$63,639,155",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Frankenstein",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "07 Nov 2025",
+    "Runtime": "149 min",
+    "Genre": "Drama, Fantasy, Horror",
+    "Director": "Guillermo del Toro",
+    "Writer": "Guillermo del Toro, Mary Shelley",
+    "Actors": "Oscar Isaac, Jacob Elordi, Christoph Waltz",
+    "Plot": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "Language": "English, Danish, French",
+    "Country": "Mexico, United States",
+    "Awards": "Nominated for 9 Oscars. 50 wins & 253 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.5",
+    "imdbVotes": "257,226",
+    "imdbID": "tt1312221",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Marty Supreme",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "25 Dec 2025",
+    "Runtime": "149 min",
+    "Genre": "Drama, Sport",
+    "Director": "Josh Safdie",
+    "Writer": "Josh Safdie, Ronald Bronstein",
+    "Actors": "Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion",
+    "Plot": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+    "Language": "English, Japanese, French",
+    "Country": "Finland, United States",
+    "Awards": "Nominated for 9 Oscars. 30 wins & 254 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ],
+    "Metascore": "89",
+    "imdbRating": "8.1",
+    "imdbVotes": "60,529",
+    "imdbID": "tt32916440",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$90,879,866",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Kiki's Delivery Service",
+    "Year": "1989",
+    "Rated": "G",
+    "Released": "20 Dec 1990",
+    "Runtime": "103 min",
+    "Genre": "Animation, Family, Fantasy",
+    "Director": "Hayao Miyazaki",
+    "Writer": "Eiko Kadono, Hayao Miyazaki",
+    "Actors": "Minami Takayama, Rei Sakuma, Mieko Nobusawa",
+    "Plot": "Along with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the ...",
+    "Language": "Japanese, English",
+    "Country": "Japan",
+    "Awards": "4 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTFhYWI1NGUtZWFhZS00MTdkLWIzZTItMDBhNWNiZDNlMjYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "85/100"
+      }
+    ],
+    "Metascore": "85",
+    "imdbRating": "7.8",
+    "imdbVotes": "185,670",
+    "imdbID": "tt0097814",
+    "Type": "movie",
+    "DVD": "08 May 2007",
+    "BoxOffice": "$1,004,057",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Trap House",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "14 Nov 2025",
+    "Runtime": "101 min",
+    "Genre": "Action, Crime",
+    "Director": "Michael Dowse",
+    "Writer": "Gary Scott Thompson, Tom O'Connor",
+    "Actors": "Dave Bautista, Jack Champion, Bobby Cannavale",
+    "Plot": "A DEA agent and his partner pursue thieves: their own rebellious teens, who began robbing the cartel using their parents' tactics and classified intel.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmY0OTk0ZDktMmJkNy00NjQwLWE0NjQtOTY4Y2VhODdhOTJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "58%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.4",
+    "imdbVotes": "4,500",
+    "imdbID": "tt10799690",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "I Could Never Be Your Woman",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "11 May 2007",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Amy Heckerling",
+    "Writer": "Amy Heckerling",
+    "Actors": "Michelle Pfeiffer, Paul Rudd, Saoirse Ronan",
+    "Plot": "A mother falls for a younger man while her daughter falls in love for the first time. Mother Nature messes with their fates.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWE0MDZhNDUtYmJlNC00MjhmLTlhZjQtNTc2OTA4YjcwNDE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "69%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "20,568",
+    "imdbID": "tt0466839",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Crime 101",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "13 Feb 2026",
+    "Runtime": "140 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Bart Layton",
+    "Writer": "Bart Layton, Don Winslow",
+    "Actors": "Chris Hemsworth, Mark Ruffalo, Barry Keoghan",
+    "Plot": "An elusive thief, eyeing his final score, encounters a disillusioned insurance broker at her own crossroads. As their paths intertwine, a relentless detective trails them hoping to thwart the multi-million dollar heist they are pl...",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZThlN2M4ZTUtYTU3Mi00MDE5LWFhYWUtNjkxMWEwNjUwNDVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "7.2",
+    "imdbVotes": "8,230",
+    "imdbID": "tt32430579",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$18,209,249",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Is This Thing On?",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "19 Dec 2025",
+    "Runtime": "121 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Bradley Cooper",
+    "Writer": "Bradley Cooper, Will Arnett, Mark Chappell",
+    "Actors": "Will Arnett, Laura Dern, Andra Day",
+    "Plot": "As their marriage unravels, Alex faces middle age and divorce, seeking new purpose in the New York comedy scene. Meanwhile, his wife Tess confronts sacrifices made for their family, forcing them to navigate co-parenting and identi...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmY0N2YzMTItYmQyNi00MjdjLTk4NDYtOGU5NzhkM2RiMmEzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.8",
+    "imdbVotes": "6,576",
+    "imdbID": "tt28083456",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$6,185,385",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
     "Title": "The Housemaid",
     "Year": "2025",
     "Rated": "R",
     "Released": "19 Dec 2025",
     "Runtime": "131 min",
-    "Genre": "Drama, Thriller",
+    "Genre": "Drama, Mystery, Thriller",
     "Director": "Paul Feig",
     "Writer": "Rebecca Sonnenshine, Freida McFadden",
     "Actors": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar",
     "Plot": "A struggling young woman is relieved by the chance for a fresh start as a maid for a wealthy couple. Soon, she discovers that the family's secrets are far more dangerous than her own.",
     "Language": "English",
     "Country": "United States",
-    "Awards": "1 win & 8 nominations total",
+    "Awards": "1 win & 9 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMGU0ZThmMDUtYmZjMi00MDk5LWE2NTQtYzQ3NWZjNWZkZGE3XkEyXkFqcGc@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.0/10"
+        "Value": "6.8/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -5089,36 +5390,521 @@
       }
     ],
     "Metascore": "65",
-    "imdbRating": "7.0",
-    "imdbVotes": "47,366",
+    "imdbRating": "6.8",
+    "imdbVotes": "104,152",
     "imdbID": "tt27543632",
     "Type": "movie",
     "DVD": "N/A",
-    "BoxOffice": "$120,686,000",
+    "BoxOffice": "$126,409,934",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
   },
   {
-    "Title": "People We Meet on Vacation",
-    "Year": "2026",
+    "Title": "Rental Family",
+    "Year": "2025",
     "Rated": "PG-13",
-    "Released": "06 Jan 2026",
-    "Runtime": "N/A",
-    "Genre": "Romance",
-    "Director": "Brett Haley",
-    "Writer": "Emily Henry, Yulin Kuang",
-    "Actors": "Lukas Gage, Sarah Catherine Hook, Tom Blyth",
-    "Plot": "Poppy wants to explore the world and Alex prefers to stay home with a good book, but somehow they are the very best of friends. They live far apart, but for a decade they have spent one week of summer vacation together.",
+    "Released": "21 Nov 2025",
+    "Runtime": "109 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Hikari",
+    "Writer": "Hikari, Stephen Blahut",
+    "Actors": "Brendan Fraser, Takehiro Hira, Mari Yamamoto",
+    "Plot": "An American actor in Tokyo struggling to find purpose lands an unusual gig: working for a Japanese \"rental family\" agency, playing stand-in roles for strangers. He rediscovers purpose, belonging, and the beauty of human connection.",
+    "Language": "English, Japanese",
+    "Country": "Japan, United States",
+    "Awards": "8 wins & 23 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzFiNTViOTQtOTUxNi00ODczLWI0MTgtNDE1ZWU5YmIzMjY2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "64/100"
+      }
+    ],
+    "Metascore": "64",
+    "imdbRating": "7.6",
+    "imdbVotes": "32,025",
+    "imdbID": "tt14142060",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$10,047,429",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Good Luck, Have Fun, Don't Die",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "13 Feb 2026",
+    "Runtime": "134 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Gore Verbinski",
+    "Writer": "Matthew Robinson",
+    "Actors": "Sam Rockwell, Juno Temple, Haley Lu Richardson",
+    "Plot": "A \"Man From the Future\" arrives at a diner in Los Angeles where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intel...",
+    "Language": "English",
+    "Country": "Germany, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ0NzYzM2QtOWYzMC00MGU5LWJmMTQtYTU1ODU0ZjUwYjk0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "67/100"
+      }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.5",
+    "imdbVotes": "3,860",
+    "imdbID": "tt1341338",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$4,777,845",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Princess Mononoke",
+    "Year": "1997",
+    "Rated": "PG-13",
+    "Released": "12 Jul 1997",
+    "Runtime": "133 min",
+    "Genre": "Animation, Adventure, Fantasy",
+    "Director": "Hayao Miyazaki",
+    "Writer": "Hayao Miyazaki",
+    "Actors": "Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",
+    "Plot": "While seeking to cure himself of a curse, young warrior Ashitaka stumbles into a conflict between the people of Iron Town and Princess Mononoke, a girl raised by wolves, who will stop at nothing to prevent the destruction of her h...",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "14 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjAzODViNGEtMjBkYi00N2U5LWJjNjAtY2U0MGJhZTEwOTU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "8.3",
+    "imdbVotes": "477,867",
+    "imdbID": "tt0119698",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$11,696,687",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Host",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "29 Mar 2013",
+    "Runtime": "125 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Andrew Niccol",
+    "Writer": "Andrew Niccol, Stephenie Meyer",
+    "Actors": "Saoirse Ronan, Max Irons, Jake Abel",
+    "Plot": "When an unseen enemy threatens mankind by taking over their bodies and erasing their memories, Melanie Stryder risks everything to protect the people she cares about.",
+    "Language": "English",
+    "Country": "United States, Switzerland",
+    "Awards": "1 win & 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWYzYTZlZjgtMGY1Yi00MjgwLWE1ZjQtNTQyNmE3ZDU3ODgxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "10%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "35/100"
+      }
+    ],
+    "Metascore": "35",
+    "imdbRating": "5.8",
+    "imdbVotes": "121,500",
+    "imdbID": "tt1517260",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$26,627,201",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Hamnet",
+    "Year": "2025",
+    "Rated": "PG-13",
+    "Released": "05 Dec 2025",
+    "Runtime": "125 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Chloé Zhao",
+    "Writer": "Chloé Zhao, Maggie O'Farrell",
+    "Actors": "Jessie Buckley, Paul Mescal, Zac Wishart",
+    "Plot": "After losing their son Hamnet to plague, Agnes and William Shakespeare grapple with grief in 16th-century England. A healer, Agnes must find strength to care for her surviving children while processing her devastating loss.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "Nominated for 8 Oscars. 60 wins & 278 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "8.1",
+    "imdbVotes": "27,462",
+    "imdbID": "tt14905854",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$20,215,030",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Splash",
+    "Year": "1984",
+    "Rated": "PG",
+    "Released": "09 Mar 1984",
+    "Runtime": "111 min",
+    "Genre": "Comedy, Fantasy, Romance",
+    "Director": "Ron Howard",
+    "Writer": "Brian Grazer, Bruce Jay Friedman, Lowell Ganz",
+    "Actors": "Tom Hanks, Daryl Hannah, Eugene Levy",
+    "Plot": "A young man is reunited with a mermaid he briefly encountered as a boy and falls in love with her without knowing her secret.",
+    "Language": "English, Swedish",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 2 wins & 11 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGM2NDk4ZTgtYmVkZS00OTE4LTk2ZTAtYzc3Nzk4ZGU3NmE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "6.3",
+    "imdbVotes": "86,831",
+    "imdbID": "tt0088161",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$69,821,334",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Non-Stop",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "28 Feb 2014",
+    "Runtime": "106 min",
+    "Genre": "Action, Mystery, Thriller",
+    "Director": "Jaume Collet-Serra",
+    "Writer": "John W. Richardson, Chris Roach, Ryan Engle",
+    "Actors": "Liam Neeson, Julianne Moore, Scoot McNairy",
+    "Plot": "An air marshal springs into action during a transatlantic flight after receiving a series of text messages demanding $150 million into an off-shore account, or someone will die every 20 minutes.",
+    "Language": "English, German",
+    "Country": "United Kingdom, France, Canada, United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTI3NzcxMjkzMl5BMl5BanBnXkFtZTgwMDY0NTQ0MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "62%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "56/100"
+      }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.9",
+    "imdbVotes": "285,661",
+    "imdbID": "tt2024469",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$92,168,600",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Wind Rises",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "21 Feb 2014",
+    "Runtime": "126 min",
+    "Genre": "Animation, Biography, Drama",
+    "Director": "Hayao Miyazaki",
+    "Writer": "Hayao Miyazaki",
+    "Actors": "Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima",
+    "Plot": "Jiro Horikoshi studies assiduously to fulfill his aim of becoming an aeronautical engineer. As WWII begins, fighter aircraft designed by him end up getting used by the Japanese Empire against its foes.",
+    "Language": "Japanese, German, Italian, French",
+    "Country": "Japan",
+    "Awards": "Nominated for 1 Oscar. 26 wins & 54 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.8",
+    "imdbVotes": "111,654",
+    "imdbID": "tt2013293",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$5,209,580",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Nuremberg",
+    "Year": "2025",
+    "Rated": "PG-13",
+    "Released": "07 Nov 2025",
+    "Runtime": "148 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "James Vanderbilt",
+    "Writer": "James Vanderbilt, Jack El-Hai",
+    "Actors": "Rami Malek, Russell Crowe, Michael Shannon",
+    "Plot": "A WWII psychiatrist evaluates Nazi leaders before the Nuremberg trials, growing increasingly obsessed with understanding evil as he forms a disturbing bond with Hermann Göring.",
+    "Language": "English, German",
+    "Country": "United States, Hungary",
+    "Awards": "4 wins & 15 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "72%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "61/100"
+      }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.4",
+    "imdbVotes": "57,264",
+    "imdbID": "tt29567915",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$14,524,692",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "American Ultra",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "21 Aug 2015",
+    "Runtime": "96 min",
+    "Genre": "Action, Comedy",
+    "Director": "Nima Nourizadeh",
+    "Writer": "Max Landis",
+    "Actors": "Jesse Eisenberg, Kristen Stewart, Connie Britton",
+    "Plot": "A stoner - who is in fact a government agent - is marked as a liability and targeted for extermination. But he's too well-trained and too high for them to handle.",
+    "Language": "English, Mandarin",
+    "Country": "United States, Switzerland",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwMTM1NDU1Ml5BMl5BanBnXkFtZTgwNDk5MTgzNjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "44%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "50/100"
+      }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.1",
+    "imdbVotes": "98,692",
+    "imdbID": "tt3316948",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$14,440,985",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Swordfish",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "08 Jun 2001",
+    "Runtime": "99 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Dominic Sena",
+    "Writer": "Skip Woods",
+    "Actors": "John Travolta, Hugh Jackman, Halle Berry",
+    "Plot": "A covert counter-terrorist unit called Black Cell led by Gabriel Shear wants the money to help finance their war against international terrorism, but it's all locked away. Gabriel brings in convicted hacker Stanley Jobson to help ...",
+    "Language": "English, German",
+    "Country": "United States",
+    "Awards": "5 wins & 10 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmVlOGM1YjQtNzMzYS00ZmY5LTlkMDQtN2EyZTQ4NTExNjNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "27%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "32/100"
+      }
+    ],
+    "Metascore": "32",
+    "imdbRating": "6.5",
+    "imdbVotes": "202,348",
+    "imdbID": "tt0244244",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$69,772,969",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Aloha",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "29 May 2015",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Cameron Crowe",
+    "Writer": "Cameron Crowe",
+    "Actors": "Bradley Cooper, Rachel McAdams, Emma Stone",
+    "Plot": "A celebrated military contractor returns to the site of his greatest career triumphs and reconnects with a long-ago love while unexpectedly falling for the hard-charging Air Force watchdog assigned to him.",
+    "Language": "English, Hawaiian, Russian",
+    "Country": "United States",
+    "Awards": "2 wins & 7 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc0NTE1NV5BMl5BanBnXkFtZTgwNzcwNTQ3NTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "20%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.4",
+    "imdbVotes": "76,950",
+    "imdbID": "tt1243974",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$21,067,116",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Train Dreams",
+    "Year": "2025",
+    "Rated": "PG-13",
+    "Released": "21 Nov 2025",
+    "Runtime": "102 min",
+    "Genre": "Drama",
+    "Director": "Clint Bentley",
+    "Writer": "Clint Bentley, Greg Kwedar, Denis Johnson",
+    "Actors": "Joel Edgerton, Clifton Collins Jr., Felicity Jones",
+    "Plot": "Based on Denis Johnson's beloved novella, Train Dreams is the moving portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly-changing America of the early 20th Century.",
     "Language": "English",
     "Country": "United States",
-    "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYmNiY2Y0NmQtNDg4ZS00MTBiLTg4YjItOTgxYzI3ZjIwM2FlXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [],
-    "Metascore": "N/A",
-    "imdbRating": "N/A",
-    "imdbVotes": "N/A",
-    "imdbID": "tt22740896",
+    "Awards": "Nominated for 4 Oscars. 28 wins & 170 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "88/100"
+      }
+    ],
+    "Metascore": "88",
+    "imdbRating": "7.5",
+    "imdbVotes": "79,359",
+    "imdbID": "tt29768334",
     "Type": "movie",
     "DVD": "N/A",
     "BoxOffice": "N/A",
@@ -5127,43 +5913,159 @@
     "Response": "True"
   },
   {
-    "Title": "Bridge of Spies",
-    "Year": "2015",
+    "Title": "The Eagle",
+    "Year": "2011",
     "Rated": "PG-13",
-    "Released": "16 Oct 2015",
-    "Runtime": "142 min",
-    "Genre": "Drama, History, Thriller",
-    "Director": "Steven Spielberg",
-    "Writer": "Matt Charman, Ethan Coen, Joel Coen",
-    "Actors": "Tom Hanks, Mark Rylance, Alan Alda",
-    "Plot": "During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.",
-    "Language": "English, German, Russian",
-    "Country": "United States, India, Germany",
-    "Awards": "Won 1 Oscar. 30 wins & 105 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_SX300.jpg",
+    "Released": "11 Feb 2011",
+    "Runtime": "114 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Kevin Macdonald",
+    "Writer": "Jeremy Brock, Rosemary Sutcliff",
+    "Actors": "Channing Tatum, Jamie Bell, Donald Sutherland",
+    "Plot": "In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.",
+    "Language": "English, Gaelic",
+    "Country": "United Kingdom, United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1MjYwNTQ4Ml5BMl5BanBnXkFtZTcwMjYwNzAxNA@@._V1_SX300.jpg",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.6/10"
+        "Value": "6.2/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "91%"
+        "Value": "39%"
       },
       {
         "Source": "Metacritic",
-        "Value": "81/100"
+        "Value": "55/100"
       }
     ],
-    "Metascore": "81",
-    "imdbRating": "7.6",
-    "imdbVotes": "341,628",
-    "imdbID": "tt3682448",
+    "Metascore": "55",
+    "imdbRating": "6.2",
+    "imdbVotes": "77,136",
+    "imdbID": "tt1034389",
     "Type": "movie",
     "DVD": "N/A",
-    "BoxOffice": "$72,313,754",
+    "BoxOffice": "$19,490,041",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
-  }
+  },
+  {
+    "Title": "Bugonia",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "31 Oct 2025",
+    "Runtime": "118 min",
+    "Genre": "Comedy, Crime, Sci-Fi",
+    "Director": "Yorgos Lanthimos",
+    "Writer": "Will Tracy, Jang Joon-hwan",
+    "Actors": "Emma Stone, Jesse Plemons, Aidan Delbis",
+    "Plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+    "Language": "English",
+    "Country": "Ireland, United Kingdom, Canada, South Korea, United States",
+    "Awards": "Nominated for 4 Oscars. 9 wins & 120 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.4",
+    "imdbVotes": "125,994",
+    "imdbID": "tt12300742",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$17,692,390",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Jules",
+    "Year": "2023",
+    "Rated": "PG-13",
+    "Released": "11 Aug 2023",
+    "Runtime": "87 min",
+    "Genre": "Comedy, Drama, Sci-Fi",
+    "Director": "Marc Turtletaub",
+    "Writer": "Gavin Steckler",
+    "Actors": "Ben Kingsley, Harriet Sansom Harris, Jane Curtin",
+    "Plot": "Milton lives a quiet life of routine in a small western Pennsylvania town, but finds his day upended when a UFO and its extra-terrestrial passenger crash land in his backyard.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 wins & 5 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTU4OWVhZDAtZTA3Ny00NTllLWI3MDktN2FhOWZkZDhlZWZlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "57/100"
+      }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.8",
+    "imdbVotes": "15,621",
+    "imdbID": "tt15428940",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,924,922",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+    {
+  "Title": "Wake Up Dead Man",
+  "Year": "2025",
+  "Rated": "PG-13",
+  "Released": "12 Dec 2025",
+  "Runtime": "144 min",
+  "Genre": "Comedy, Crime, Drama",
+  "Director": "Rian Johnson",
+  "Writer": "Rian Johnson",
+  "Actors": "Daniel Craig, Josh O'Connor, Glenn Close",
+  "Plot": "Detective Benoit Blanc teams up with an earnest young priest to investigate a perfectly impossible crime at a small-town church with a dark history.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "6 wins & 55 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q0OTA5MTEtNWU4NC00ZWFmLTg5NmYtNDFmODViYWUxZmJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "Metascore": "80",
+  "imdbRating": "7.3",
+  "imdbVotes": "210,494",
+  "imdbID": "tt14364480",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,600,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
 ]
