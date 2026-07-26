@@ -1,12 +1,154 @@
-{
-  "movieData": [
+[
   {
-    "movieTitle": "Placeholder",
-    "movieYear": 2026,
-    "myRating": 7,
-    "dateWatched": 45658,
-    "movieComments": "Placeholder",
-    "orderWatched": 1
+    "bookTitle": "The Duke and I",
+    "author": "Julia Quinn",
+    "publishYear": 2000,
+    "monthRead": "1/26",
+    "bookRating": 9,
+    "bookReview": "I think this is the best book but I might be biased because I did watch this season of the show before reading the book and it's easily the best season."
+  },
+  {
+    "bookTitle": "The Viscount Who Loved Me",
+    "author": "Julia Quinn",
+    "publishYear": 2000,
+    "monthRead": "1/26",
+    "bookRating": 8,
+    "bookReview": "The books feels so short compared to the show"
+  },
+  {
+    "bookTitle": "An Offer from a Gentlemen",
+    "author": "Julia Quinn",
+    "publishYear": 2001,
+    "monthRead": "1/26",
+    "bookRating": 7,
+    "bookReview": "When writing this review I couldn't remember who was in this book so it gets a 7"
+  },
+  {
+    "bookTitle": "Romancing Mister Bridgerton",
+    "author": "Julia Quinn",
+    "publishYear": 2002,
+    "monthRead": "1/26",
+    "bookRating": 7,
+    "bookReview": "The book is way better than the show but its still probably the least interesting love story"
+  },
+  {
+    "bookTitle": "To Sir Phillip, With Love",
+    "author": "Julia Quinn",
+    "publishYear": 2003,
+    "monthRead": "2/26",
+    "bookRating": 7,
+    "bookReview": "Also not super interesting, probably because Eloise is away from london and in a mansion with some kids. I dont know."
+  },
+  {
+    "bookTitle": "When He Was Wicked",
+    "author": "Julia Quinn",
+    "publishYear": 2004,
+    "monthRead": "2/26",
+    "bookRating": 9,
+    "bookReview": "My new favorite book besides the first one. I have no idea why Netflix chose this season of the show to ruin considering its one of the best books and the love story is pretty unique"
+  },
+  {
+    "bookTitle": "It's in His Kiss",
+    "author": "Julia Quinn",
+    "publishYear": 2005,
+    "monthRead": "3/26",
+    "bookRating": 9,
+    "bookReview": "I liked how she made Hyacinth very adventerous"
+  },
+  {
+    "bookTitle": "On the Way to the Wedding",
+    "author": "Julia Quinn",
+    "publishYear": 2006,
+    "monthRead": "3/26",
+    "bookRating": 8,
+    "bookReview": "It's a pretty good book but still not as good as Daphne's or Francesca's"
+  },
+  {
+    "bookTitle": "Brisingr",
+    "author": "Christopher Paolini",
+    "publishYear": 2008,
+    "monthRead": "4/26",
+    "bookRating": 7,
+    "bookReview": "I only read this because I wanted to read Inheritance and I forgot most of the plot"
+  },
+  {
+    "bookTitle": "Inheritance",
+    "author": "Christopher Paolini",
+    "publishYear": 2011,
+    "monthRead": "4/26",
+    "bookRating": 7,
+    "bookReview": "I mostly read this because I didn't remember the ending from when I was a kid. Spoilers but I wish Arya and Eragon were together in the end I have no idea why he felt like Eragon needed to go become a hermit"
+  },
+  {
+    "bookTitle": "I Think I'm in Love with an Alien",
+    "author": "Ann Aguirre",
+    "publishYear": 2025,
+    "monthRead": "5/26",
+    "bookRating": 7,
+    "bookReview": "I'm not sure why I read this. It's an okay romance novel and is kind of funny."
+  },
+  {
+    "bookTitle": "Conform",
+    "author": "Ariel Sullivan",
+    "publishYear": 2025,
+    "monthRead": "5/26",
+    "bookRating": 7,
+    "bookReview": "It's like if you combined the worlds of the hunger games and handmaids tail. I enjoyed it and am excited to read the next book."
+  },
+  {
+    "bookTitle": "The Dreaming Void",
+    "author": "Peter F. Hamilton",
+    "publishYear": 2007,
+    "monthRead": "6/26",
+    "bookRating": 9,
+    "bookReview": "I loved that he decided to continue the commonwealth saga and I also like how its set 1000 years in the future. Also I like how he managed to blend sci and fantasty so well."
+  },
+  {
+    "bookTitle": "The Temporal Void",
+    "author": "Peter F. Hamilton",
+    "publishYear": 2008,
+    "monthRead": "6/26",
+    "bookRating": 9,
+    "bookReview": "I dont have much to say these 3 books could have just all been 1 book but theyre super long so I get it."
+  },
+  {
+    "bookTitle": "The Evolutionary Void",
+    "author": "Peter F. Hamilton",
+    "publishYear": 2010,
+    "monthRead": "6/26",
+    "bookRating": 9,
+    "bookReview": "I really hope this series get a tv show it would be so good."
+  },
+  {
+    "bookTitle": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "publishYear": 2023,
+    "monthRead": "7/26",
+    "bookRating": 9,
+    "bookReview": "I almost read this in 1 sitting. It's kinda like hunger games but with dragons and magic. Also thank you Rebecca for making everyone like 21 instead of 16 years old."
+  },
+  {
+    "bookTitle": "Iron Flame",
+    "author": "Rebecca Yarros",
+    "publishYear": 2023,
+    "monthRead": "7/26",
+    "bookRating": 8,
+    "bookReview": "Violet basically just gets tortured a lot. Great justice porn I guess."
+  },
+  {
+    "bookTitle": "Onyx Storm",
+    "author": "Rebecca Yarros",
+    "publishYear": 2025,
+    "monthRead": "7/26",
+    "bookRating": 8,
+    "bookReview": "Why is Violet so needy when it comes to her relationship..."
+  },
+  {
+    "bookTitle": "Project Hail Mary",
+    "author": "Andy Weir",
+    "publishYear": 2021,
+    "monthRead": "7/26",
+    "bookRating": 9,
+    "bookReview": "I can see why this became a movie. I actually think all the changes the movie made (which werent that many) were really well done and neccessary. Because grace never went back to earth I kind of wish the book ended with a ship from Earth arriving in the Eridani system because they would know that alien life exists now but I oh well."
   }
 ]
-}
