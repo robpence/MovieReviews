@@ -3,6 +3,7 @@ import './App.css';
 // import data from './movieDataLarge.json'
 // import data from './data/movieDataLarge.json'
 import MovieListItem from './movieListItem';
+import BookListItem from './bookListItem';
 // import CustomPagination from './CustomPagination.js';
 import SearchBar from './SearchBar.js';
 import SearchFilter from './SearchFilter.js';
@@ -11,7 +12,7 @@ import data2025 from './data/2025SheetsData.json'
 import data2026 from './data/2026SheetsData.json'
 import allData from './data/AllSheetsData.json'
 import tvShowData from './data/tvShowData.json'
-import bookData from './data/bookData.json'
+import bookJSONData from './data/bookData.json'
 
 function App() {
 
@@ -37,6 +38,7 @@ function App() {
   const [filterTerm, setFilterTerm] = useState('default-newest');
   const [tab, setTab] = useState('2026');
   const [movieData, setMovieData] = useState(data2026.movieData);
+  const [bookData, setBookData] = useState(bookJSONData);
 
   const handleFilter = (event) => {
     setFilterTerm(event.target.value);
@@ -65,7 +67,7 @@ function App() {
       setMovieData(tvShowData.movieData);
       resetSearchAndFilter();
     } else if (tabName === 'Books') {
-      setMovieData(bookData.movieData);
+      // setBookData(bookData);
       resetSearchAndFilter();
     }
     setTab(tabName);
@@ -82,6 +84,17 @@ function App() {
       return movieData.sort((a, b) => a.myRating - b.myRating);
     }
   }).filter(movie => movie.movieTitle.toLowerCase().includes(searchTerm.toLowerCase()));
+  
+  // Books data is structured differently, so we need to handle it separately.
+  const booksToDisplay = bookData.filter((book) => {
+    if (filterTerm === 'default-newest') {
+      return movieData.sort((a, b) => b.orderWatched - a.orderWatched);
+    } else if (filterTerm === 'rating-asc') {
+      return movieData.sort((a, b) => b.bookRating - a.bookRating);
+    } else if (filterTerm === 'rating-desc') {
+      return movieData.sort((a, b) => a.bookRating - b.bookRating);
+    }
+  }).filter(book => book.bookTitle.toLowerCase().includes(searchTerm.toLowerCase()));
   // SEARCH AND FILTER END
 
   // PAGINATION START
@@ -147,9 +160,16 @@ function App() {
       </div>
 
       {/* TODO Need to change the data given to the display based on the tab selected.*/}
-      {moviesToDisplay.map((movie, index) => (
-        <MovieListItem key={index} movie={movie} movieArray={moviesToDisplay}/>
-      ))}
+      {/* if tab doesnt match books then display movieData, if tab matches books then display bookData. */}
+      {tab === 'Books' ? (
+        booksToDisplay.map((book, index) => (
+          <BookListItem key={index} book={book} bookArray={booksToDisplay}/>
+        ))
+      ) : (
+        moviesToDisplay.map((movie, index) => (
+          <MovieListItem key={index} movie={movie} movieArray={moviesToDisplay}/>
+        ))
+      )}
 
       {/* <CustomPagination page={currentPage}  totalPages={totalPages}  onChange={handlePageChange}/> */}
 
